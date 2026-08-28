@@ -1,0 +1,1165 @@
+[ {
+  "id" : 2895,
+  "caseNumber" : "R865",
+  "shortName" : "Titanium dioxide (TiO2)",
+  "initDate" : 1787608800000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Anti-absorption investigation",
+  "articleOfToc" : "12",
+  "hasDetailPage" : true,
+  "parentId" : 2694
+}, {
+  "id" : 2897,
+  "caseNumber" : "R866",
+  "shortName" : "Glass fibre open mesh fabrics",
+  "initDate" : 1786140000000,
+  "caseCountries" : [ {
+    "id" : 270,
+    "caseCountryId" : null,
+    "caseId" : 2897,
+    "countryName" : "Kosovo",
+    "extraInformation" : "This designation is without prejudice to positions on status and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence."
+  }, {
+    "id" : 69,
+    "caseCountryId" : null,
+    "caseId" : 2897,
+    "countryName" : "North Macedonia",
+    "extraInformation" : null
+  }, {
+    "id" : 54,
+    "caseCountryId" : null,
+    "caseId" : 2897,
+    "countryName" : "Republic of Moldova",
+    "extraInformation" : null
+  }, {
+    "id" : 68,
+    "caseCountryId" : null,
+    "caseId" : 2897,
+    "countryName" : "Serbia",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Anti-circumvention investigation",
+  "articleOfToc" : "13",
+  "hasDetailPage" : true,
+  "parentId" : 1627
+}, {
+  "id" : 2892,
+  "caseNumber" : "R864",
+  "shortName" : "Biodiesel ",
+  "initDate" : 1785448800000,
+  "caseCountries" : [ {
+    "id" : 131,
+    "caseCountryId" : null,
+    "caseId" : 2843,
+    "countryName" : "United States of America",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Partial interim review",
+  "articleOfToc" : "19partial",
+  "hasDetailPage" : true,
+  "parentId" : 645
+}, {
+  "id" : 2893,
+  "caseNumber" : "R861",
+  "shortName" : "Biodiesel",
+  "initDate" : 1785448800000,
+  "caseCountries" : [ {
+    "id" : 131,
+    "caseCountryId" : null,
+    "caseId" : 2843,
+    "countryName" : "United States of America",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 644
+}, {
+  "id" : 2894,
+  "caseNumber" : "R863",
+  "shortName" : "Biodiesel",
+  "initDate" : 1785448800000,
+  "caseCountries" : [ {
+    "id" : 131,
+    "caseCountryId" : null,
+    "caseId" : 2843,
+    "countryName" : "United States of America",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "18",
+  "hasDetailPage" : true,
+  "parentId" : 645
+}, {
+  "id" : 2891,
+  "caseNumber" : "R862",
+  "shortName" : "Biodiesel",
+  "initDate" : 1785448800000,
+  "caseCountries" : [ {
+    "id" : 131,
+    "caseCountryId" : null,
+    "caseId" : 2843,
+    "countryName" : "United States of America",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Partial interim review",
+  "articleOfToc" : "11(3)part.",
+  "hasDetailPage" : true,
+  "parentId" : 644
+}, {
+  "id" : 2896,
+  "caseNumber" : "R867",
+  "shortName" : "Hardwood plywood ",
+  "initDate" : 1784844000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Anti-circumvention investigation",
+  "articleOfToc" : "13",
+  "hasDetailPage" : true,
+  "parentId" : 2753
+}, {
+  "id" : 2888,
+  "caseNumber" : "AD758",
+  "shortName" : "Glass beads (solid glass microspheres)",
+  "initDate" : 1784152800000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2888
+}, {
+  "id" : 2884,
+  "caseNumber" : "AD757",
+  "shortName" : "Pekin duck ",
+  "initDate" : 1783548000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2884
+}, {
+  "id" : 2870,
+  "caseNumber" : "R855",
+  "shortName" : "Hot-rolled flat steel products of iron, non-alloy (certain) ",
+  "initDate" : 1783288800000,
+  "caseCountries" : [ {
+    "id" : 38,
+    "caseCountryId" : null,
+    "caseId" : 2638,
+    "countryName" : "Türkiye",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 2458
+}, {
+  "id" : 2879,
+  "caseNumber" : "AD756",
+  "shortName" : "Alkaline batteries (certain)",
+  "initDate" : 1782943200000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2879
+}, {
+  "id" : 2875,
+  "caseNumber" : "AD754",
+  "shortName" : "Polyether polyols",
+  "initDate" : 1782770400000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2875
+}, {
+  "id" : 2882,
+  "caseNumber" : "R860",
+  "shortName" : "Trichloroisocyanuric acid (TCCA)\t",
+  "initDate" : 1782252000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Anti-absorption investigation",
+  "articleOfToc" : "12",
+  "hasDetailPage" : true,
+  "parentId" : 285
+}, {
+  "id" : 2880,
+  "caseNumber" : "R859",
+  "shortName" : "Biodiesel",
+  "initDate" : 1781733600000,
+  "caseCountries" : [ {
+    "id" : 132,
+    "caseCountryId" : null,
+    "caseId" : 2880,
+    "countryName" : "Canada",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporter Review",
+  "articleOfToc" : "11(4)",
+  "hasDetailPage" : true,
+  "parentId" : 644
+}, {
+  "id" : 2878,
+  "caseNumber" : "R858",
+  "shortName" : "Monosodium glutamate",
+  "initDate" : 1781215200000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Full Interim Review",
+  "articleOfToc" : "11(3)",
+  "hasDetailPage" : true,
+  "parentId" : 444
+}, {
+  "id" : 2874,
+  "caseNumber" : "R857",
+  "shortName" : "Aspartame",
+  "initDate" : 1781042400000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Partial interim review",
+  "articleOfToc" : "11(3)part.",
+  "hasDetailPage" : true,
+  "parentId" : 2128
+}, {
+  "id" : 2877,
+  "caseNumber" : "AD755",
+  "shortName" : "Bolted and boltless steel shelves",
+  "initDate" : 1781042400000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2877
+}, {
+  "id" : 2869,
+  "caseNumber" : "AD752",
+  "shortName" : "Aliphatic-aromatic copolyesters (certain)",
+  "initDate" : 1780524000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2869
+}, {
+  "id" : 2872,
+  "caseNumber" : "AD753",
+  "shortName" : "Welded steel mesh",
+  "initDate" : 1780437600000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  }, {
+    "id" : 38,
+    "caseCountryId" : null,
+    "caseId" : 2638,
+    "countryName" : "Türkiye",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2872
+}, {
+  "id" : 2871,
+  "caseNumber" : "R856",
+  "shortName" : "Multilayered wood flooring (MWF)",
+  "initDate" : 1779919200000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Anti-absorption investigation",
+  "articleOfToc" : "12",
+  "hasDetailPage" : true,
+  "parentId" : 2728
+}, {
+  "id" : 2867,
+  "caseNumber" : "NEPT27-01",
+  "shortName" : "Biodiesel",
+  "initDate" : 1777932000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 2698
+}, {
+  "id" : 2865,
+  "caseNumber" : "R854",
+  "shortName" : "Lysine",
+  "initDate" : 1777500000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Anti-absorption investigation",
+  "articleOfToc" : "12",
+  "hasDetailPage" : true,
+  "parentId" : 2727
+}, {
+  "id" : 2885,
+  "caseNumber" : "NEPT29-01",
+  "shortName" : "Polyethylene terephthalate (PET)",
+  "initDate" : 1777413600000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 2661
+}, {
+  "id" : 2862,
+  "caseNumber" : "R852",
+  "shortName" : "Welded tubes and pipes of iron or non-alloy steel",
+  "initDate" : 1776376800000,
+  "caseCountries" : [ {
+    "id" : 53,
+    "caseCountryId" : null,
+    "caseId" : 2862,
+    "countryName" : "Belarus",
+    "extraInformation" : null
+  }, {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  }, {
+    "id" : 55,
+    "caseCountryId" : null,
+    "caseId" : 2815,
+    "countryName" : "Russian Federation",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 449
+}, {
+  "id" : 2863,
+  "caseNumber" : "R853",
+  "shortName" : "Monosodium glutamate (MSG)",
+  "initDate" : 1776290400000,
+  "caseCountries" : [ {
+    "id" : 227,
+    "caseCountryId" : null,
+    "caseId" : 2719,
+    "countryName" : "Indonesia",
+    "extraInformation" : null
+  }, {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 444
+}, {
+  "id" : 2860,
+  "caseNumber" : "R851",
+  "shortName" : "Citric acid ",
+  "initDate" : 1776117600000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 443
+}, {
+  "id" : 2866,
+  "caseNumber" : "NEPT20-09",
+  "shortName" : "Bicycles (electric)",
+  "initDate" : 1774738800000,
+  "caseCountries" : [ ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 2292
+}, {
+  "id" : 2859,
+  "caseNumber" : "R850",
+  "shortName" : "Aluminium extrusions",
+  "initDate" : 1774566000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 2449
+}, {
+  "id" : 2864,
+  "caseNumber" : "SAFE011",
+  "shortName" : "Grain-oriented flat-rolled products of silicon-electrical steel",
+  "initDate" : 1774566000000,
+  "caseCountries" : [ {
+    "id" : 267,
+    "caseCountryId" : null,
+    "caseId" : 2864,
+    "countryName" : "Erga Omnes",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial investigation SFG",
+  "articleOfToc" : "00",
+  "hasDetailPage" : true,
+  "parentId" : 2864
+}, {
+  "id" : 2848,
+  "caseNumber" : "AD751",
+  "shortName" : "Acrylic esters",
+  "initDate" : 1773270000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  }, {
+    "id" : 215,
+    "caseCountryId" : null,
+    "caseId" : 2848,
+    "countryName" : "Saudi Arabia",
+    "extraInformation" : null
+  }, {
+    "id" : 125,
+    "caseCountryId" : null,
+    "caseId" : 2848,
+    "countryName" : "South Africa",
+    "extraInformation" : null
+  }, {
+    "id" : 131,
+    "caseCountryId" : null,
+    "caseId" : 2843,
+    "countryName" : "United States of America",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2848
+}, {
+  "id" : 2847,
+  "caseNumber" : "AD750",
+  "shortName" : "Copper tubes ",
+  "initDate" : 1773270000000,
+  "caseCountries" : [ {
+    "id" : 135,
+    "caseCountryId" : null,
+    "caseId" : 2847,
+    "countryName" : "Mexico",
+    "extraInformation" : null
+  }, {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  }, {
+    "id" : 61,
+    "caseCountryId" : null,
+    "caseId" : 2847,
+    "countryName" : "Uzbekistan",
+    "extraInformation" : null
+  }, {
+    "id" : 182,
+    "caseCountryId" : null,
+    "caseId" : 2812,
+    "countryName" : "Vietnam",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2847
+}, {
+  "id" : 2839,
+  "caseNumber" : "RF75/41-46-47-52",
+  "shortName" : "Ductile pipes (tubes and pipes of ductile cast iron) ",
+  "initDate" : 1773097200000,
+  "caseCountries" : [ {
+    "id" : 178,
+    "caseCountryId" : null,
+    "caseId" : 2719,
+    "countryName" : "India",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Refund Investigation",
+  "articleOfToc" : "21",
+  "hasDetailPage" : false,
+  "parentId" : 2112
+}, {
+  "id" : 2850,
+  "caseNumber" : "R849",
+  "shortName" : "Aluminium flat-rolled products",
+  "initDate" : 1773097200000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Partial interim review",
+  "articleOfToc" : "11(3)part.",
+  "hasDetailPage" : true,
+  "parentId" : 2475
+}, {
+  "id" : 2858,
+  "caseNumber" : "NEPT24-02",
+  "shortName" : "Tinplate ",
+  "initDate" : 1772060400000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 2726
+}, {
+  "id" : 2846,
+  "caseNumber" : "R848",
+  "shortName" : "Continuous Filament Glass Fibre Products",
+  "initDate" : 1771887600000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "18",
+  "hasDetailPage" : true,
+  "parentId" : 2014
+}, {
+  "id" : 2843,
+  "caseNumber" : "NEPT15-02",
+  "shortName" : "Biodiesel",
+  "initDate" : 1771887600000,
+  "caseCountries" : [ {
+    "id" : 131,
+    "caseCountryId" : null,
+    "caseId" : 2843,
+    "countryName" : "United States of America",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 644
+}, {
+  "id" : 2861,
+  "caseNumber" : "NEPT20-08",
+  "shortName" : "Bicycles (electric)",
+  "initDate" : 1771369200000,
+  "caseCountries" : [ ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 2292
+}, {
+  "id" : 2834,
+  "caseNumber" : "AD747",
+  "shortName" : "Sodium benzoate  ",
+  "initDate" : 1766098800000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2834
+}, {
+  "id" : 2836,
+  "caseNumber" : "AD749",
+  "shortName" : "Mobile cranes",
+  "initDate" : 1766098800000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2836
+}, {
+  "id" : 2835,
+  "caseNumber" : "AD748",
+  "shortName" : "Benzyl Alcohol",
+  "initDate" : 1766098800000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2835
+}, {
+  "id" : 2824,
+  "caseNumber" : "R845",
+  "shortName" : "Ammonium nitrate ",
+  "initDate" : 1765494000000,
+  "caseCountries" : [ {
+    "id" : 55,
+    "caseCountryId" : null,
+    "caseId" : 2815,
+    "countryName" : "Russian Federation",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 464
+}, {
+  "id" : 2832,
+  "caseNumber" : "AD746",
+  "shortName" : "Welding wire",
+  "initDate" : 1765407600000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2832
+}, {
+  "id" : 2830,
+  "caseNumber" : "AD745",
+  "shortName" : "Robot lawn mowers (RLM)",
+  "initDate" : 1763506800000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2830
+}, {
+  "id" : 2868,
+  "caseNumber" : "NEPT28-01",
+  "shortName" : "Glass fibre reinforcements (GFR)",
+  "initDate" : 1762902000000,
+  "caseCountries" : [ ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 1573
+}, {
+  "id" : 2823,
+  "caseNumber" : "AS742",
+  "shortName" : "Lightweight thermal paper",
+  "initDate" : 1762470000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "10",
+  "hasDetailPage" : true,
+  "parentId" : 2823
+}, {
+  "id" : 2825,
+  "caseNumber" : "AS743",
+  "shortName" : "Passenger car and light lorry tyres",
+  "initDate" : 1762383600000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "10",
+  "hasDetailPage" : true,
+  "parentId" : 2825
+}, {
+  "id" : 2821,
+  "caseNumber" : "R844",
+  "shortName" : "Citrus fruits (certain prepared or preserved citrus fruits (namely mandarins, etc.)",
+  "initDate" : 1760997600000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 457
+}, {
+  "id" : 2816,
+  "caseNumber" : "R842",
+  "shortName" : "Heavyweight Thermal Paper",
+  "initDate" : 1760652000000,
+  "caseCountries" : [ {
+    "id" : 188,
+    "caseCountryId" : null,
+    "caseId" : 2775,
+    "countryName" : "Republic of Korea",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 2419
+}, {
+  "id" : 2817,
+  "caseNumber" : "R843",
+  "shortName" : "Stainless steel hot-rolled flat products ",
+  "initDate" : 1759442400000,
+  "caseCountries" : [ {
+    "id" : 227,
+    "caseCountryId" : null,
+    "caseId" : 2719,
+    "countryName" : "Indonesia",
+    "extraInformation" : null
+  }, {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  }, {
+    "id" : 190,
+    "caseCountryId" : null,
+    "caseId" : 2812,
+    "countryName" : "Taiwan",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 2411
+}, {
+  "id" : 2815,
+  "caseNumber" : "AD741",
+  "shortName" : "UREA",
+  "initDate" : 1758751200000,
+  "caseCountries" : [ {
+    "id" : 55,
+    "caseCountryId" : null,
+    "caseId" : 2815,
+    "countryName" : "Russian Federation",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2815
+}, {
+  "id" : 2814,
+  "caseNumber" : "R841",
+  "shortName" : "Polyvinyl alcohols (certain) (PVA) ",
+  "initDate" : 1758751200000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 2405
+}, {
+  "id" : 2838,
+  "caseNumber" : "NEPT26-01",
+  "shortName" : "Cast iron articles (certain)\t",
+  "initDate" : 1758578400000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 2254
+}, {
+  "id" : 2813,
+  "caseNumber" : "AD740",
+  "shortName" : "Certain alkyl phosphonic acids and their sodium salts ",
+  "initDate" : 1758146400000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2813
+}, {
+  "id" : 2812,
+  "caseNumber" : "AD739",
+  "shortName" : "Cold-rolled flat steel products (certain) ",
+  "initDate" : 1758146400000,
+  "caseCountries" : [ {
+    "id" : 178,
+    "caseCountryId" : null,
+    "caseId" : 2719,
+    "countryName" : "India",
+    "extraInformation" : null
+  }, {
+    "id" : 189,
+    "caseCountryId" : null,
+    "caseId" : 2812,
+    "countryName" : "Japan",
+    "extraInformation" : null
+  }, {
+    "id" : 190,
+    "caseCountryId" : null,
+    "caseId" : 2812,
+    "countryName" : "Taiwan",
+    "extraInformation" : null
+  }, {
+    "id" : 38,
+    "caseCountryId" : null,
+    "caseId" : 2638,
+    "countryName" : "Türkiye",
+    "extraInformation" : null
+  }, {
+    "id" : 182,
+    "caseCountryId" : null,
+    "caseId" : 2812,
+    "countryName" : "Vietnam",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2812
+}, {
+  "id" : 2819,
+  "caseNumber" : "NEPT21-06",
+  "shortName" : "Iron or steel fasteners",
+  "initDate" : 1758060000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 2504
+}, {
+  "id" : 2811,
+  "caseNumber" : "AD738",
+  "shortName" : "PET Spunbond ",
+  "initDate" : 1757887200000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2811
+}, {
+  "id" : 2810,
+  "caseNumber" : "AD737",
+  "shortName" : "Pea protein",
+  "initDate" : 1756418400000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Initial Investigation",
+  "articleOfToc" : "5",
+  "hasDetailPage" : true,
+  "parentId" : 2810
+}, {
+  "id" : 2807,
+  "caseNumber" : "R840",
+  "shortName" : "Solar glass",
+  "initDate" : 1753135200000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "18",
+  "hasDetailPage" : true,
+  "parentId" : 1965
+}, {
+  "id" : 2806,
+  "caseNumber" : "R839",
+  "shortName" : "Solar glass",
+  "initDate" : 1753135200000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 1950
+}, {
+  "id" : 2802,
+  "caseNumber" : "R836",
+  "shortName" : "Glass fibre reinforcements (GFR)",
+  "initDate" : 1750716000000,
+  "caseCountries" : [ {
+    "id" : 76,
+    "caseCountryId" : null,
+    "caseId" : 2802,
+    "countryName" : "Egypt",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "18",
+  "hasDetailPage" : true,
+  "parentId" : 2404
+}, {
+  "id" : 2790,
+  "caseNumber" : "NEPT23-01",
+  "shortName" : "Ceramic tiles",
+  "initDate" : 1746396000000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 1634
+}, {
+  "id" : 2784,
+  "caseNumber" : "R834",
+  "shortName" : "Glass fibre woven fabrics (GFF)",
+  "initDate" : 1743631200000,
+  "caseCountries" : [ {
+    "id" : 76,
+    "caseCountryId" : null,
+    "caseId" : 2802,
+    "countryName" : "Egypt",
+    "extraInformation" : null
+  }, {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Expiry Review",
+  "articleOfToc" : "11(2)",
+  "hasDetailPage" : true,
+  "parentId" : 2385
+}, {
+  "id" : 2775,
+  "caseNumber" : "RF87-01",
+  "shortName" : "Superabsorbent polymers",
+  "initDate" : 1732575600000,
+  "caseCountries" : [ {
+    "id" : 188,
+    "caseCountryId" : null,
+    "caseId" : 2775,
+    "countryName" : "Republic of Korea",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Refund Investigation",
+  "articleOfToc" : "11(8)",
+  "hasDetailPage" : false,
+  "parentId" : 2516
+}, {
+  "id" : 2827,
+  "caseNumber" : "NEPT11-60",
+  "shortName" : "Tableware and kitchenware (ceramic)",
+  "initDate" : 1722290400000,
+  "caseCountries" : [ {
+    "id" : 186,
+    "caseCountryId" : null,
+    "caseId" : 2827,
+    "countryName" : "People's Republic of China",
+    "extraInformation" : null
+  } ],
+  "caseType" : "New Exporting producer treatment Review",
+  "articleOfToc" : "11(4)exp",
+  "hasDetailPage" : true,
+  "parentId" : 1844
+}, {
+  "id" : 2719,
+  "caseNumber" : "RF86-01",
+  "shortName" : "Stainless steel cold-rolled products ",
+  "initDate" : 1720735200000,
+  "caseCountries" : [ {
+    "id" : 178,
+    "caseCountryId" : null,
+    "caseId" : 2719,
+    "countryName" : "India",
+    "extraInformation" : null
+  }, {
+    "id" : 227,
+    "caseCountryId" : null,
+    "caseId" : 2719,
+    "countryName" : "Indonesia",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Refund Investigation",
+  "articleOfToc" : "11(8)",
+  "hasDetailPage" : false,
+  "parentId" : 2484
+}, {
+  "id" : 2638,
+  "caseNumber" : "RF84-02",
+  "shortName" : "Rainbow trout ",
+  "initDate" : 1656885600000,
+  "caseCountries" : [ {
+    "id" : 38,
+    "caseCountryId" : null,
+    "caseId" : 2638,
+    "countryName" : "Türkiye",
+    "extraInformation" : null
+  } ],
+  "caseType" : "Refund Investigation",
+  "articleOfToc" : "21",
+  "hasDetailPage" : false,
+  "parentId" : 2638
+} ]
