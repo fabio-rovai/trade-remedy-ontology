@@ -161,21 +161,25 @@ Tariff, the TRA public file and legislation.gov.uk is Crown copyright under the 
 Government Licence v3.0; GLEIF data is CC0; WTO notification tables are published open on
 wto.org.
 
-## What we would build next
+## What else this repository carries
 
-The same census supports two things nobody currently publishes, and both are cheap from
-here. If either would be useful to you, email us and we will build it.
+**A measure expiry tracker**, in [`tracker/`](tracker/). Which UK measures expire when,
+by commodity and exporter, regenerated from the live tariff by
+[`pipeline/expiry_tracker.py`](pipeline/expiry_tracker.py). 2,792 dated measures across
+22 expiry dates; 3 measures expire on 30 August 2026, and the largest single cliff is
+900 measures on 6 April 2027. Every per-date count is computed twice, set-based and by
+SPARQL through the [open-ontologies engine](https://github.com/fabio-rovai/open-ontologies),
+and the build fails on disagreement.
 
-**A measure expiry tracker.** Which UK measures expire when, by exporter, refreshed from
-the live tariff, so importers, advisers and the investigating authority see the review
-horizon before it arrives.
-
-**A full cross-jurisdiction divergence map.** This repository already checks the EU
-parent regulations the UK book still cites (both are no longer in force in the EU), and
-carries the Canadian register (189 measures, 4,681 codes) and US Federal Register counts.
-The full map would line up every transitioned UK measure against its EU counterpart,
-rate by rate and scope by scope, and show exactly where the two books have drifted since
-transition.
+**The start of a cross-jurisdiction divergence map.** The EU parent regulations the UK
+book still cites are checked for in-force status against the Publications Office record
+in [`cache/eu_parent_regs.jsonl`](cache/eu_parent_regs.jsonl); both are no longer in
+force in the EU. The Canadian register is parsed in
+[`cache/ca_measures.json`](cache/ca_measures.json), 189 measures and 4,681 codes with
+zero malformed tokens, and US Federal Register order counts are in
+[`cache/us_fedreg.json`](cache/us_fedreg.json). The full map, every transitioned UK
+measure against its EU counterpart rate by rate and scope by scope, is the natural next
+step; if it would be useful to you, email us.
 
 ## Contact
 
