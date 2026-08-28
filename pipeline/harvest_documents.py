@@ -4,7 +4,7 @@ across all TRA cases.
 Stage 1: case page -> submission listing (type, party, dates, file count)
 Stage 2: submission page -> file URLs on the CDN
 Stage 3: download every PDF to corpus/ (resumable, size-capped per file)
-Stage 4: extract text with pdftotext for the deficiency-pattern corpus
+Stage 4: extract text with pdftotext so the public file is machine-checkable
 
 All resumable via JSONL manifests. Corpus dir is gitignored; the manifests are not.
 """
