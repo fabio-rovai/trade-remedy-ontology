@@ -14,7 +14,12 @@
     "locator_revoked": 3,
     "citation_code_locator_disagreement": 1,
     "citation_scheme_nonconformant": 87,
-    "names_not_resolving_to_one_entity": 955
+    "names_not_resolving_to_one_entity": 955,
+    "tra_cases": 92,
+    "tra_cases_publishing_codes": 91,
+    "tra_published_codes": 2204,
+    "tra_codes_with_invalid_granularity": 12,
+    "tra_cases_joined_to_a_measured_commodity": 79
   },
   "sparql": {
     "commodities_with_remedies": 405,
@@ -31,6 +36,11 @@
     "locator_revoked": 3,
     "citation_code_locator_disagreement": 1,
     "citation_scheme_nonconformant": 87,
-    "names_not_resolving_to_one_entity": 955
+    "names_not_resolving_to_one_entity": 955,
+    "tra_cases": 92,
+    "tra_cases_publishing_codes": 91,
+    "tra_published_codes": 2204,
+    "tra_codes_with_invalid_granularity": 12,
+    "tra_cases_joined_to_a_measured_commodity": 79
   }
 }

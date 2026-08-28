@@ -117,3 +117,17 @@ trade:D8_NameDoesNotResolveToOneEntity a sh:NodeShape ;
               FILTER (?card != 1)
             }
         """ ] .
+
+# D8b expresses the same rule as D8 using a native SHACL range constraint rather
+# than SPARQL. It is kept alongside D8 so the two formulations cross-check each
+# other, and because it exercises sh:minInclusive and sh:maxInclusive, which
+# open-ontologies did not implement until this vertical exposed the gap.
+trade:D8b_ResolutionCardinalityRange a sh:NodeShape ;
+    rdfs:label "D8b published name does not resolve to exactly one entity, as a range constraint" ;
+    sh:targetClass trade:IdentifierAssertion ;
+    sh:property [
+        sh:path trade:resolutionCardinality ;
+        sh:minInclusive 1 ;
+        sh:maxInclusive 1 ;
+        sh:message "D8b the published name does not resolve to exactly one entity" ;
+    ] .

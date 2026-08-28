@@ -47,6 +47,18 @@ citation scheme. One class of instrument is cited as `Trade remedies notice 2025
 record, `15`. The most cited instrument of all, at 6,738 citations, is recorded as
 `Statutory Instruments  2019 No. 450`, with a double space.
 
+**F5. The TRA case register strips leading zeros from chapter 3 commodity codes.**
+Cases ER0080 (Active) and TS0002 (Completed) each publish six nine-digit values. Nine is
+not a UK commodity granularity. All twelve return HTTP 404 against the tariff; all twelve
+resolve with HTTP 200 once the leading zero is restored, and each resolves to a trout
+product consistent with the case. Repaired in `repairs/tra_case_code_repairs.json`,
+accepted only where the published value fails and the restored value resolves.
+
+**F6. The case to measure join holds.** 79 of 92 cases join to at least one commodity
+carrying a measure. 8 of 405 measured commodities are named by no case. Of 2,204
+published codes, 1,393 carry a measure and 811 do not, the latter concentrated in
+completed cases. 21 cases mix 8 and 10 digit granularity inside a single list.
+
 **F4. The exporter name field is not a name field.** Of 982 named exporters, 955 do not
 resolve to exactly one entity under a GLEIF legal-name lookup. 595, which is 60.6
 percent, mix the company name with address fragments, so `Cargill Inc., Wayzata` and
@@ -97,13 +109,21 @@ Three independent paths, as required before anything ships.
 
 ### A defect in our own engine, to be filed
 
-`open-ontologies shacl` completed in 1.05 seconds against pyshacl's 26.1, but reported
-`"conforms": null` and named two constraints it does not implement, `sh:minInclusive`
-and `sh:maxInclusive`. It also did not evaluate the `sh:sparql` shapes. Its 362
-violations are therefore a subset of pyshacl's 1,136, not a disagreement about the data.
-The engine was honest about what it skipped, which is the right behaviour, but the gap
-is real and gets filed against our own repository under the same contribute-first rule
-we would apply to anyone else's.
+`open-ontologies shacl` reported `"conforms": null` and named `sh:minInclusive` and
+`sh:maxInclusive` as not implemented. They were collected by neither the property-shape
+query nor the known-predicate filter, so a shape carrying a numeric bound could neither
+pass nor fail.
+
+**Corrected on re-test:** an earlier draft of this report also said the engine did not
+evaluate `sh:sparql` shapes. That was wrong. It does, and once the shapes were rewritten
+as `sh:sparql` it returned exactly pyshacl's 1,136. The only real gap was the range
+constraints.
+
+**Fixed in open-ontologies commit a44f668**, with three regression tests pinned against
+pyshacl 0.40.1 on a shared fixture. After the fix the engine reports `conforms: false`,
+`skipped_constraints: none`, and 2,091 violations: the same 1,136 as pyshacl, plus 955
+from a native range formulation of the same rule, which independently reproduces the
+SPARQL figure of 955.
 
 ### A shape bug the two engines exposed
 
@@ -112,12 +132,17 @@ property as a violation. That inflated D3 from 1 to 70 and D5 from 3 to 28. All 
 were rewritten as `sh:sparql` so that absence is not a violation. The corrected counts
 match the set-based figures exactly.
 
-## Not obtained
+## Sources that needed a route around a gate
 
-- WTO I-TIP measure data. The Timeseries API requires a subscription key. The web
-  interface was reachable but was not scraped.
-- EU TRON case history was reachable and is not yet harvested, so no UK to EU comparison
-  of transitioned measures is made here.
-- TRA case register submissions. 62 case references are visible on the public file, but
-  the case-to-measure join is not built in this version, so nothing in this report
-  claims anything about TRA recommendations, only about measures as published.
+- **WTO Timeseries API returns HTTP 401** and needs a subscription key. Routed around it:
+  the WTO publishes the same measure counts as open PDFs at wto.org, which need no key
+  and extract cleanly with `pdftotext -layout`. 61 members parsed for anti-dumping by
+  reporting member, 100 by exporting country, 27 for countervailing. See
+  `pipeline/harvest_wto.py`.
+- **The TRA public file has no JSON API**; `/api/cases`, `/api/v1/cases` and `/cases` all
+  return 404. Routed around it: the case pages are server-rendered and publish the fields
+  needed for the join, including the commodity code list. 92 cases harvested. See
+  `pipeline/harvest_tra_cases.py`.
+- **EU TRON** was reachable and is not harvested in this version, so no UK to EU
+  comparison of transitioned measures is made. The WTO notification counts stand in as
+  the cross-jurisdiction reference instead.

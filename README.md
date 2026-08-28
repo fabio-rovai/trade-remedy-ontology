@@ -1,22 +1,31 @@
 # Trade Remedy Ontology
 
-An open ontology and validation suite for UK trade remedy measures, tested against the
-full UK Trade Tariff, legislation.gov.uk and the Global LEI System.
+An open ontology and validation suite for UK trade remedy measures, tested end to end
+against the TRA case register, the full UK Trade Tariff, legislation.gov.uk, the WTO
+measure notifications and the Global LEI System.
 
-Every anti-dumping and countervailing duty the UK charges is attached to a commodity
-code, an origin, a named exporter and a legal instrument. This repository models that
-chain, then checks whether it holds together. It does not hold together in thirteen
-places, and this repository also contains the fix.
+Every anti-dumping and countervailing duty the UK charges runs a chain: an investigating
+authority opens a case, the case names commodity codes, a legal instrument gives the
+resulting measure force, and the measure assigns a duty rate to a named exporter. This
+repository models that chain and then checks whether it holds together.
 
-## The headline finding
+It breaks in twenty-five places. All twenty-five are repaired here.
 
-**The UK Trade Tariff truncates the legal instrument link at 200 characters, and every
-truncated link is dead.**
+## What was measured
 
-We visited all 21,008 commodity codes in the tariff. 405 carry a trade remedy measure,
-giving 9,385 distinct measures that cite 49 legal instruments between them.
+| | |
+|---|---|
+| Commodity codes visited | 21,008, the complete UK tariff |
+| Commodities carrying a remedy measure | 405 |
+| Distinct measures | 9,385 |
+| Legal instruments cited by those measures | 49 of 119 present |
+| Additional codes assigning duty to a named exporter | 990 |
+| TRA cases harvested | 92, of which 91 publish commodity codes |
+| Triples | 103,780 |
 
-- 13 of those 49 instruments publish a locator of **exactly 200 characters**, cut mid word
+## Finding 1: the tariff truncates the legal instrument link at 200 characters
+
+- 13 of the 49 cited instruments publish a locator of **exactly 200 characters**, cut mid word
 - **all 13 return HTTP 404**
 - **every locator shorter than 200 characters returns HTTP 200**
 - no locator in the set exceeds 200 characters
@@ -27,40 +36,62 @@ trade remedies notices, whose gov.uk paths are the longest in the set.
 **1,477 of the 9,385 live measures, 15.7 percent, publish a broken link to the instrument
 that gives them legal force.**
 
-## The fix
+All thirteen are repaired in
+[`repairs/legal_act_url_repairs.csv`](repairs/legal_act_url_repairs.csv). For each we
+fetched the gov.uk collection page named in the surviving prefix and filtered its links
+to those beginning with the truncated string. Every one yielded exactly one candidate,
+and every candidate returned HTTP 200. A repair is recorded only where it is a strict
+continuation of what was published, never a substitution.
 
-All thirteen are repaired in [`repairs/legal_act_url_repairs.csv`](repairs/legal_act_url_repairs.csv).
+## Finding 2: the case register drops leading zeros from commodity codes
 
-For each one we fetched the gov.uk collection page named in the surviving prefix, listed
-the documents it links, and kept those beginning with the truncated string. Every one of
-the thirteen yielded exactly one candidate, and every candidate returned HTTP 200. A
-repair is only recorded where it is a strict continuation of what was published, never a
-substitution.
+A UK commodity code is 6, 8 or 10 digits. Two TRA cases, **ER0080 (Active)** and
+**TS0002 (Completed)**, each publish six **nine-digit** codes. Every one returns HTTP 404
+against the tariff. Restore the leading zero and every one returns HTTP 200 and resolves
+to a trout product, which is what both cases are about.
 
-| Instrument | Citations | Published locator | Repaired |
-|---|---|---|---|
-| Taxation Notice: 2023/014 | 630 | 200 chars, 404 | 200 OK |
-| Taxation Notice: 2023/015 | 630 | 200 chars, 404 | 200 OK |
-| Taxation Notice: 2023/16 | 204 | 200 chars, 404 | 200 OK |
-| Trade remedies notice 2025/20 | 180 | 200 chars, 404 | 200 OK |
+```
+301919011  ->  404        0301919011  ->  200  Weighing 1.2 kg or less each
+304429010  ->  404        0304429010  ->  200  Of the species Oncorhynchus mykiss
+```
 
-The full thirteen, with both locators side by side, are in the CSV.
+That is a numeric cast stripping a leading zero on chapter 3 goods. All twelve are
+repaired in [`repairs/tra_case_code_repairs.json`](repairs/tra_case_code_repairs.json).
+A repair is accepted only where the published value fails to resolve **and** the restored
+value resolves.
 
-## The other findings
+## Finding 3: legal citation format is ungoverned
 
-**Legal citation format is ungoverned.** 87 citation records match neither declared
-citation scheme. One class of instrument is cited as `Trade remedies notice 2025/20`,
-`Trade Remedies Notice: 2024/11`, `Taxation Notice: 2023/014`, `Taxation notice 2022/10`,
-`2026/23`, `2025 No.7`, and in one record simply `15`. The most cited instrument of all,
-at 6,738 citations, is recorded as `Statutory Instruments  2019 No. 450`, with a double
-space.
+87 citation records match neither declared citation scheme. One class of instrument is
+cited as `Trade remedies notice 2025/20`, `Trade Remedies Notice: 2024/11`, `Trade
+Remedies Notice 2026/20`, `Taxation Notice: 2023/014`, `Taxation notice 2022/10`,
+`2026/23`, `2025 No.7`, `2025 NO.13` and, in one record, simply `15`. The most cited
+instrument of all, at 6,738 citations, is recorded as `Statutory Instruments  2019 No.
+450`, with a double space.
 
-**The exporter name field is not a name field.** Duty rates are assigned to individually
-named exporters through additional codes. Of 982 named exporters, 955 do not resolve to
-exactly one entity under a GLEIF legal name lookup. 60.6 percent mix the company name
-with address fragments, so `Cargill Inc., Wayzata` is a single field value. 65 carry raw
-HTML markup or double encoded entities, including a `<br>` tag inside a company name. 55
-pack more than one legal entity into one value.
+## Finding 4: the exporter name field is not a name field
+
+Of 982 named exporters, 955 do not resolve to exactly one entity under a GLEIF legal name
+lookup. 60.6 percent mix the company name with address fragments, so `Cargill Inc.,
+Wayzata` and `BIOX Corporation, Oakville, Ontario, Canada` are single field values. 65
+carry raw HTML markup or double encoded entities, including a `<br>` tag inside a company
+name. 55 pack more than one legal entity into one value. Fourteen state a scope rule
+rather than naming anyone, for example `Sustainable Aviation Fuel is excluded from the
+measure`.
+
+## The case to measure join
+
+79 of the 92 TRA cases join to at least one commodity carrying a measure. 8 of the 405
+commodities carrying measures are named by no TRA case. Of 2,204 commodity codes
+published across the case register, 1,393 carry a measure and 811 do not, the latter
+concentrated in completed cases whose measures have since expired.
+
+For independent context the WTO's own notification data is harvested from the open PDFs
+at wto.org, which need no subscription key and extract cleanly with `pdftotext -layout`.
+The WTO records the United Kingdom as having notified **7** anti-dumping measures and
+**3** countervailing measures in total since 1995, against 46 measures in force per the
+TRA's 2025-26 annual report. The UK's in-force book is therefore overwhelmingly inherited
+rather than UK-originated, which is the correct frame for reading everything above.
 
 ## Design
 
@@ -74,6 +105,8 @@ than lost.
   because they can disagree, with `codeLocatorAgreement`
 - `ResolutionObservation` records what a locator returned on a given date, including
   whether the instrument it reached is marked revoked
+- `RemedyCase` records commodity codes **exactly as published**, before any repair, so
+  that granularity defects survive into the graph instead of being normalised away
 
 Each identifier and citation scheme declares its **own conformance rules as data** in
 [`ontology/schemes.ttl`](ontology/schemes.ttl), so adding a jurisdiction means adding a
@@ -84,40 +117,53 @@ SHACL carries one shape per defect class, so the validation report is the findin
 ## Reproduce it
 
 ```bash
-pip install rdflib pyshacl pytest
+pip install rdflib pyshacl pytest      # pdftotext for the WTO step
 
-python3 pipeline/reharvest_tr.py       # rebuild the tariff slice, about 10 minutes
+python3 pipeline/reharvest_tr.py       # tariff slice, about 10 minutes
+python3 pipeline/harvest_tra_cases.py  # TRA case register
+python3 pipeline/harvest_wto.py        # WTO notification counts
 python3 pipeline/enrich.py             # dereference locators, resolve names
 python3 pipeline/build_graph.py        # emit and parse-verify the graph
-python3 pipeline/governance_report.py  # every figure computed twice, non-zero on disagreement
+python3 pipeline/governance_report.py  # every figure twice, non-zero on disagreement
 python3 pipeline/repair_urls.py        # rebuild the truncated locators
+python3 pipeline/repair_case_codes.py  # restore the stripped leading zeros
 pytest tests/ -v
 ```
 
-`governance_report.py` computes all fifteen headline figures set-based in Python **and**
-again by SPARQL over the graph, and exits non-zero if the two disagree. Nothing in this
-README is asserted from a single computation path.
+`governance_report.py` computes all twenty headline figures set-based in Python **and**
+again by SPARQL over the graph, and exits non-zero if the two disagree. Nothing here is
+asserted from a single computation path.
 
-## Honesty
+## Validation
 
-[`BUILD_REPORT.md`](BUILD_REPORT.md) records what was fetched, what could not be
-obtained, three claims that were tested and dropped, a bug in our own extractor that was
-caught mid-build, a bug in our own SHACL shapes that two engines exposed, and a defect in
-our own validation engine. Findings that died are recorded alongside findings that lived.
+Three independent engines, all agreeing.
 
-The WTO Timeseries API requires a subscription key and was not used. The TRA case
-register is not yet joined to the measures, so nothing here claims anything about TRA
-recommendations, only about measures as published.
+| | |
+|---|---|
+| `open-ontologies` v1.2.0 | 103,780 triples, agreeing exactly with rdflib. `lint` zero issues. Closed-world `vocab-check` conforms, zero undeclared terms. |
+| pyshacl 0.40.1 | 1,136 violations across six defect classes |
+| `open-ontologies shacl` | the same 1,136, plus 955 from an independent range formulation of the same rule |
+
+Validating this vertical exposed a gap in our own engine: `sh:minInclusive` and
+`sh:maxInclusive` were collected by neither the shape query nor the known-predicate
+filter, so a shape carrying either was reported as skipped and suppressed the verdict to
+null. Fixed in
+[open-ontologies a44f668](https://github.com/fabio-rovai/open-ontologies/commit/a44f668),
+with regression tests pinned against pyshacl on a shared fixture.
+
+[`BUILD_REPORT.md`](BUILD_REPORT.md) records exactly what was fetched, every claim that
+was tested and dropped, and the bugs caught mid-build.
 
 ## Licence
 
 Code MIT. Ontology, shapes and documentation CC BY 4.0. Source data from the UK Trade
-Tariff and legislation.gov.uk is Crown copyright under the Open Government Licence v3.0;
-GLEIF data is CC0.
+Tariff, the TRA public file and legislation.gov.uk is Crown copyright under the Open
+Government Licence v3.0; GLEIF data is CC0; WTO notification tables are published open on
+wto.org.
 
 ## Contact
 
 Built by [The Tesseract Academy](https://gov.tesseract.academy/).
 
-If you run a register and want the same census run against it, or you want the thirteen
-repairs as a patch against your own pipeline, email **fabio@thetesseractacademy.com**.
+If you run a register and want the same census run against it, or you want these repairs
+as a patch against your own pipeline, email **fabio@thetesseractacademy.com**.

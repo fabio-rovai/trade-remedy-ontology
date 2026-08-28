@@ -178,6 +178,37 @@ def main():
     print(f"emitted {OUT}: {len(L)} lines, {n_measures} measures, "
           f"{len(exporters)} exporters, {len(all_acts)} legal acts", flush=True)
 
+    # TRA case register, and the join to commodities carrying measures.
+    cases = jl(os.path.join(CACHE, "tra_cases.jsonl"))
+    tariff = {rec["id"] for rec in commodities}
+    L2 = []
+    for c in cases:
+        cid = f"id:case-{slug(c['case_ref'])}"
+        L2.append(f"{cid} a trade:RemedyCase ;")
+        L2.append(f'    trade:caseReference "{esc(c["case_ref"])}" ;')
+        if c.get("status"):
+            L2.append(f'    trade:caseStatus "{esc(c["status"])}" ;')
+        if c.get("applicant"):
+            L2.append(f'    trade:caseApplicant "{esc(c["applicant"])}" ;')
+        if c.get("initiation_date"):
+            L2.append(f'    trade:initiationDate "{esc(c["initiation_date"])}" ;')
+        for code in c.get("commodity_codes") or []:
+            L2.append(f'    trade:namesCommodityCode "{esc(code)}" ;')
+            if code in tariff:
+                L2.append(f"    trade:caseCoversCommodity id:commodity-{code} ;")
+            else:
+                for t in tariff:
+                    if len(code) < 10 and t.startswith(code):
+                        L2.append(f"    trade:caseCoversCommodity id:commodity-{t} ;")
+        L2.append(f'    rdfs:label "{esc(c["case_ref"])} {esc((c.get("title") or "")[:70])}" .')
+        # granularity is a property of the published code, asserted per case
+        for code in c.get("commodity_codes") or []:
+            valid = len(code) in (6, 8, 10)
+            L2.append(f'{cid} trade:codeGranularityValid {"true" if valid else "false"} .' if not valid else "")
+    with open(OUT, "a") as f:
+        f.write("\n".join(x for x in L2 if x) + "\n")
+    print(f"appended {len(cases)} TRA cases", flush=True)
+
     import rdflib
     g = rdflib.Graph()
     g.parse(OUT, format="turtle")

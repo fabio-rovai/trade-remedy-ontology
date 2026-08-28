@@ -134,3 +134,27 @@ trade:isResidualRate a owl:DatatypeProperty ;
     rdfs:label "is residual rate" ;
     rdfs:comment "True for the all other exporters catch-all code, which denotes no specific entity." ;
     rdfs:domain trade:Exporter ; rdfs:range xsd:boolean .
+
+##  The investigating authority's case register, and its join to the tariff  ##
+
+trade:caseReference a owl:DatatypeProperty ;
+    rdfs:label "case reference" ; rdfs:domain trade:RemedyCase ; rdfs:range xsd:string .
+trade:caseStatus a owl:DatatypeProperty ;
+    rdfs:label "case status" ; rdfs:domain trade:RemedyCase ; rdfs:range xsd:string .
+trade:caseApplicant a owl:DatatypeProperty ;
+    rdfs:label "case applicant" ; rdfs:domain trade:RemedyCase ; rdfs:range xsd:string .
+trade:initiationDate a owl:DatatypeProperty ;
+    rdfs:label "initiation date" ; rdfs:domain trade:RemedyCase ; rdfs:range xsd:string .
+trade:namesCommodityCode a owl:DatatypeProperty ;
+    rdfs:label "names commodity code" ;
+    rdfs:comment "A commodity code exactly as the case register publishes it, before any repair. Length is significant: a value that is neither 6, 8 nor 10 digits does not denote a commodity." ;
+    rdfs:domain trade:RemedyCase ; rdfs:range xsd:string .
+trade:caseCoversCommodity a owl:ObjectProperty ;
+    rdfs:label "case covers commodity" ;
+    rdfs:comment "Asserted only where a code the case publishes resolves to a commodity that carries a remedy measure." ;
+    rdfs:domain trade:RemedyCase ; rdfs:range trade:Commodity .
+trade:codeGranularityValid a owl:DatatypeProperty ;
+    rdfs:domain trade:RemedyCase ;
+    rdfs:label "code granularity valid" ;
+    rdfs:comment "False when a published commodity code has a digit length that no tariff granularity uses." ;
+    rdfs:range xsd:boolean .

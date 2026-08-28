@@ -32,3 +32,25 @@ def test_headline_figures_agree_across_both_computation_paths():
         return  # graph not built in this checkout
     d = json.load(open(p))
     assert d["set_based"] == d["sparql"]
+
+
+def test_case_code_repairs_restore_a_leading_zero():
+    import json
+    p = os.path.join(ROOT, "repairs", "tra_case_code_repairs.json")
+    rs = json.load(open(p))
+    assert len(rs) == 12
+    for r in rs:
+        assert r["accepted"] is True
+        assert len(r["published_code"]) == 9
+        assert r["published_code_status"] == 404
+        assert r["repaired_code"] == "0" + r["published_code"]
+        assert r["repaired_code_status"] == 200
+        assert r["repaired_description"]
+
+
+def test_case_code_repairs_only_touch_invalid_granularities():
+    import json
+    rs = json.load(open(os.path.join(ROOT, "repairs", "tra_case_code_repairs.json")))
+    for r in rs:
+        assert len(r["published_code"]) not in (6, 8, 10)
+        assert len(r["repaired_code"]) == 10
