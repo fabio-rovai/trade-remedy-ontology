@@ -1,0 +1,8 @@
+{
+ "blocked": true,
+ "detail": {
+  "https://www.industry.gov.au/": null,
+  "https://www.adcommission.gov.au/": null
+ },
+ "note": "Both hosts refuse the connection to an honest scripted client (HTTP/2 stream errors / no response). Not circumvented. WTO notification PDFs stand in for Australian counts."
+}

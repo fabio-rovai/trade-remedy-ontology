@@ -3,3 +3,5 @@ EU ongoing cases: 66
 CA: 189 measure rows, 4681 codes, 0 malformed tokens
 US antidumping_duty_order: HTTP 200, count 10000
 US countervailing_duty_order: HTTP 200, count 5660
+AU: {'https://www.industry.gov.au/': None, 'https://www.adcommission.gov.au/': None}
+JURISDICTIONS COMPLETE
