@@ -1,0 +1,119 @@
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix trade:  <https://gov.tesseract.academy/def/traderemedy#> .
+@prefix scheme: <https://gov.tesseract.academy/def/traderemedy/scheme#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+
+# One shape per defect class. The validation report is the findings table.
+
+trade:D2_NonConformantAdditionalCode a sh:NodeShape ;
+    rdfs:label "D2 additional code does not conform to its declared scheme" ;
+    sh:targetClass trade:IdentifierAssertion ;
+    sh:sparql [
+        sh:message "D2 additional code {?value} does not match the pattern declared by its scheme" ;
+        sh:prefixes <https://gov.tesseract.academy/def/traderemedy> ;
+        sh:select """
+            SELECT $this ?value WHERE {
+              $this <https://gov.tesseract.academy/def/traderemedy#identifierScheme>
+                    <https://gov.tesseract.academy/def/traderemedy/scheme#UKAdditionalCode> .
+              $this <https://gov.tesseract.academy/def/traderemedy#identifierValue> ?value .
+              FILTER (!REGEX(?value, "^[A-Z0-9]{4}$"))
+            }
+        """ ] .
+
+trade:D7_MarkupInPublishedName a sh:NodeShape ;
+    rdfs:label "D7 published exporter name carries raw markup or an unescaped entity" ;
+    sh:targetClass trade:Exporter ;
+    sh:sparql [
+        sh:message "D7 exporter name {?label} contains raw markup or a double encoded entity" ;
+        sh:prefixes <https://gov.tesseract.academy/def/traderemedy> ;
+        sh:select """
+            SELECT $this ?label WHERE {
+              $this <https://gov.tesseract.academy/def/traderemedy#exporterLabel> ?label .
+              FILTER (REGEX(?label, "<[a-zA-Z/][^>]*>") || REGEX(?label, "&(amp|lt|gt|quot|#[0-9]+);"))
+            }
+        """ ] .
+
+trade:D1_ExporterWithoutIdentifier a sh:NodeShape ;
+    rdfs:label "D1 named exporter carries no entity identifier" ;
+    sh:targetClass trade:Exporter ;
+    sh:sparql [
+        sh:message "D1 exporter {?label} is named in a measure but carries no LEI assertion" ;
+        sh:prefixes <https://gov.tesseract.academy/def/traderemedy> ;
+        sh:select """
+            SELECT $this ?label WHERE {
+              $this <https://gov.tesseract.academy/def/traderemedy#exporterLabel> ?label .
+              FILTER NOT EXISTS { $this <https://gov.tesseract.academy/def/traderemedy#isResidualRate> true }
+              FILTER NOT EXISTS {
+                ?a <https://gov.tesseract.academy/def/traderemedy#assertionSubject> $this ;
+                   <https://gov.tesseract.academy/def/traderemedy#identifierScheme>
+                   <https://gov.tesseract.academy/def/traderemedy/scheme#LEI> .
+              }
+            }
+        """ ] .
+
+trade:D4_CitationSchemeNonConformance a sh:NodeShape ;
+    rdfs:label "D4 legal citation code matches no declared citation scheme" ;
+    sh:targetClass trade:LegalCitationAssertion ;
+    sh:sparql [
+        sh:message "D4 citation code {?code} matches no declared citation scheme pattern" ;
+        sh:prefixes <https://gov.tesseract.academy/def/traderemedy> ;
+        sh:select """
+            SELECT $this ?code WHERE {
+              $this <https://gov.tesseract.academy/def/traderemedy#citationCode> ?code .
+              FILTER (!REGEX(?code, "^S\\\\.I\\\\. [0-9]{4}/[0-9]+$"))
+              FILTER (!REGEX(?code, "^Taxation Notice: [0-9]{4}/[0-9]{3}$"))
+            }
+        """ ] .
+
+trade:D3_CitationCodeLocatorDisagreement a sh:NodeShape ;
+    rdfs:label "D3 citation code and citation locator identify different instruments" ;
+    sh:targetClass trade:LegalCitationAssertion ;
+    sh:sparql [
+        sh:message "D3 the instrument named by the citation code is not the instrument the locator dereferences to" ;
+        sh:prefixes <https://gov.tesseract.academy/def/traderemedy> ;
+        sh:select """
+            SELECT $this ?code WHERE {
+              $this <https://gov.tesseract.academy/def/traderemedy#codeLocatorAgreement> false .
+              OPTIONAL { $this <https://gov.tesseract.academy/def/traderemedy#citationCode> ?code }
+            }
+        """ ] .
+
+trade:D5_RevokedInstrumentCited a sh:NodeShape ;
+    rdfs:label "D5 an instrument present on a remedy commodity is marked revoked" ;
+    sh:targetClass trade:ResolutionObservation ;
+    sh:sparql [
+        sh:message "D5 the instrument is marked revoked at the point of observation" ;
+        sh:prefixes <https://gov.tesseract.academy/def/traderemedy> ;
+        sh:select """
+            SELECT $this ?title WHERE {
+              $this <https://gov.tesseract.academy/def/traderemedy#resolvedRevoked> true .
+              OPTIONAL { $this <https://gov.tesseract.academy/def/traderemedy#resolvedTitle> ?title }
+            }
+        """ ] .
+
+trade:D6_UnresolvableLocator a sh:NodeShape ;
+    rdfs:label "D6 citation locator does not dereference to HTTP 200" ;
+    sh:targetClass trade:ResolutionObservation ;
+    sh:sparql [
+        sh:message "D6 the citation locator did not return HTTP 200" ;
+        sh:prefixes <https://gov.tesseract.academy/def/traderemedy> ;
+        sh:select """
+            SELECT $this ?status WHERE {
+              $this <https://gov.tesseract.academy/def/traderemedy#httpStatus> ?status .
+              FILTER (?status != 200)
+            }
+        """ ] .
+
+trade:D8_NameDoesNotResolveToOneEntity a sh:NodeShape ;
+    rdfs:label "D8 published name does not resolve to exactly one entity in the target register" ;
+    sh:targetClass trade:IdentifierAssertion ;
+    sh:sparql [
+        sh:message "D8 the published name does not resolve to exactly one entity" ;
+        sh:prefixes <https://gov.tesseract.academy/def/traderemedy> ;
+        sh:select """
+            SELECT $this ?card WHERE {
+              $this <https://gov.tesseract.academy/def/traderemedy#resolutionCardinality> ?card .
+              FILTER (?card != 1)
+            }
+        """ ] .

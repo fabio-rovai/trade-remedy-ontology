@@ -1,0 +1,23 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: pip install pytest rdflib pyshacl
+      - name: Tests
+        run: pytest tests/ -v
+      - name: Ontology and shapes parse
+        run: |
+          python -c "
+          import rdflib
+          for f in ['ontology/traderemedy.ttl','ontology/schemes.ttl','shacl/layer2_conformance.ttl']:
+              g=rdflib.Graph(); g.parse(f, format='turtle'); print(f, len(g), 'triples')
+          "

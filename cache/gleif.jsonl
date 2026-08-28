@@ -1,0 +1,985 @@
+{"name": "Akyol Su Ürn.Ürt.Taş.Kom.İth.İhr.Paz.San. ve Tic. Ltd. Şti Asya Söğüt Su Ürünleri Üretim Dahili Paz.ve İhr. Ltd.Şti GMS Su Ürünleri Üretim İth. Paz. San. ve Tic. Ltd. Şti Gümüşdoga Su Ürünleri Üretim Ihracat Ithalat AŞ Gümüş-Yel Su Ürünleri üretim İhracat ve İthalat Ltd. Şti Hakan Komandit Şirketi İskele Su Ürünleri Hayv.Gida Tur.Inş.Paz.Ihr.Ltd.Şti Karaköy Su Ürünleri Üretim Paz.Tic.İhr. ve İth.Ltd.Şti Özgü Su Ürün. Üret. Taş. Komis. İth. İhr. Paz. San. ve Tic. Ltd. Şti", "codes": ["B964"], "total": 0, "leis": []}
+{"name": "Selina Balik", "codes": ["B963"], "total": 0, "leis": []}
+{"name": "VAT zero rate", "codes": ["VATZ"], "total": 0, "leis": []}
+{"name": "BAFA Su Ürünleri Yavru Üretim Merkezi Sanayi Ticaret AŞ", "codes": ["B965"], "total": 0, "leis": []}
+{"name": "Ternaeben Gida ve Su Ürünleri Ithalat ve Ihracat Sanayi Ticaret AŞ", "codes": ["B967"], "total": 0, "leis": []}
+{"name": "Özpekler İnşaat Taahhüd Dayanıklı Tüketim Malları Su Ürünleri Sanayi ve Ticaret Limited Şirketi", "codes": ["B966"], "total": 0, "leis": []}
+{"name": "Lezita Balik A.Ş.", "codes": ["B968"], "total": 0, "leis": []}
+{"name": "Ada Su Ürünleri Turizm İnşaat ve Ticaret Ltd. Şti.", "codes": ["B969"], "total": 0, "leis": []}
+{"name": "Alba Su Ürünleri A.Ş.", "codes": ["B972"], "total": 0, "leis": []}
+{"name": "Ahmet Aydeniz Gıda San. ve Tic. A.Ş.", "codes": ["B970"], "total": 0, "leis": []}
+{"name": "Alfam Su Ürünleri A.Ş.", "codes": ["B973"], "total": 0, "leis": []}
+{"name": "Alba Lojistik İhracat İthalat Ltd. Şti.", "codes": ["B971"], "total": 0, "leis": []}
+{"name": "Alka Su Ürünleri A.Ş.", "codes": ["B975"], "total": 0, "leis": []}
+{"name": "Bağcı Balık Gıda ve Enerji Üretimi San ve Tic. A.Ş.", "codes": ["B977"], "total": 0, "leis": []}
+{"name": "Alima Su Ürünleri ve Gida San. Tic. A.Ş.", "codes": ["B974"], "total": 0, "leis": []}
+{"name": "Azer Altin Su Ürünleri", "codes": ["B976"], "total": 0, "leis": []}
+{"name": "Çamlı Yem Besicilik Sanayii ve Ticaret A.Ş", "codes": ["B978"], "total": 0, "leis": []}
+{"name": "Çirçir Su Ürünleri Ltd. Şti.", "codes": ["B979"], "total": 0, "leis": []}
+{"name": "Ipaş Su Ürünleri A.Ş.", "codes": ["B980"], "total": 0, "leis": []}
+{"name": "Kemal Balıkçılık Ihr. Ltd. Şti.", "codes": ["B981"], "total": 0, "leis": []}
+{"name": "Önder Su Ürünleri San. ve Tic. Ltd. Şti.", "codes": ["B984"], "total": 0, "leis": []}
+{"name": "Liman Entegre Balıkçılık San ve Tic. Ltd. Şti.", "codes": ["B982"], "total": 0, "leis": []}
+{"name": "Miray Su Ürünleri", "codes": ["B983"], "total": 0, "leis": []}
+{"name": "Fishark Su Ürünleri Üretim Sanayi ve Ticaret A.?.", "codes": ["B985"], "total": 0, "leis": []}
+{"name": "Yaşar Dış Tic. A.Ş.", "codes": ["B989"], "total": 0, "leis": []}
+{"name": "TSM Deniz Ürünleri San. Tic. A.Ş.", "codes": ["B987"], "total": 0, "leis": []}
+{"name": "Ugurlu Balık A.Ş.", "codes": ["B988"], "total": 0, "leis": []}
+{"name": "Tai Su Ürünleri Ltd. Şti.", "codes": ["B986"], "total": 0, "leis": []}
+{"name": "Cargill S.A.C.I.", "codes": ["C491"], "total": 0, "leis": []}
+{"name": "COFCO International Argentina S.A.", "codes": ["C490"], "total": 1, "leis": ["254900Q4Z7BHF2ENRU65"]}
+{"name": "All other overseas exporters (residual amount)", "codes": ["8999", "8C32", "B999"], "total": 0, "leis": []}
+{"name": "Aceitera General Deheza S.A.", "codes": ["C493"], "total": 1, "leis": ["254900SY7EX9SOWJQL98"]}
+{"name": "LDC Argentina S.A.", "codes": ["C495"], "total": 0, "leis": []}
+{"name": "Bunge Argentina S.A.", "codes": ["C494"], "total": 0, "leis": []}
+{"name": "Oleaginosa Moreno Hnos. SACIFI y A", "codes": ["C497"], "total": 0, "leis": []}
+{"name": "Molinos Agro S.A.", "codes": ["C496"], "total": 1, "leis": ["549300JE7OE8F1JZPK43"]}
+{"name": "All Other Overseas Exporters (Residual Rate)", "codes": ["C999"], "total": 0, "leis": []}
+{"name": "HVO Only from US and/or Canada", "codes": ["8C00"], "total": 0, "leis": []}
+{"name": "Vicentin S.A.I.C.", "codes": ["C498"], "total": 1, "leis": ["5493001CQIPQS54GIP50"]}
+{"name": "BIOX Corporation, Oakville, Ontario, Canada", "codes": ["B107"], "total": 6888, "leis": ["894500OJHT3H0GYFZR90", "549300JBUUR5N0562751", "254900WHXF6GBUBG4N57", "549300J7BAONVQB0FZ58", "549300DIHJIHUJC08T27"]}
+{"name": "Rothsay Biodiesel, Guelph, Ontario, Canada", "codes": ["B108"], "total": 6876, "leis": ["894500CDQV4D877E6L85", "5493007ZC6QYUMIRP717", "5493006N1RXVPKY5WX32", "549300DIHJIHUJC08T27", "8945009XJ0OG9IOLU108"]}
+{"name": "DSM Nutritional Products Canada Inc, Dartmouth, Nova Scotia, Canada", "codes": ["C114"], "total": 5223, "leis": ["98450096P5D4C1E2HY60", "894500PSRGJ6OZYYD365", "254900H66FOQVXMY7681", "254900JLUYO7OUIGXJ50", "9845001E8763774M8D63"]}
+{"name": "Non-sampled cooperating exporters (Changzhou City Jintan District Weige Biological Technology Co., Ltd; Eco Biochemical Technology (Zhangjiagang) Company Limited and EcoCeres Limited; Hebei Jingu Plasticizer Co., Ltd and Hebei Jingu Recycling Resources Development Co., Ltd; Haixin Energy Technology International Pte. Ltd)", "codes": ["8A44"], "total": 0, "leis": []}
+{"name": "Zhuoyue Group (Longyan Zhuoyue New Energy Co., Ltd and Xiamen Zhuoyue Biomass Energy Co., Ltd)", "codes": ["8A43"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "PT Intibenua Perkasatama and PT Musim Mas (Musim Mas Group)", "codes": ["B787"], "total": 0, "leis": []}
+{"name": "Sustainable Aviation Fuel is excluded from the measure", "codes": ["8C01"], "total": 0, "leis": []}
+{"name": "PT Ciliandra Perkasa", "codes": ["B786"], "total": 1, "leis": ["25490041Q7H8137J4786"]}
+{"name": "PT Pelita Agung Agrindustri and PT Permata Hijau Palm Oleo (Permata Group)", "codes": ["B788"], "total": 0, "leis": []}
+{"name": "PT Wilmar Nabati Indonesia and PT Wilmar Bioenergi Indonesia (Wilmar Group)", "codes": ["B789"], "total": 0, "leis": []}
+{"name": "Green Earth Fuels of Houston LLC, Houston", "codes": ["A935"], "total": 460, "leis": ["969500CIKLVO5ISB7Q70", "549300WX4YO71NFO5362", "5493007U04ILWKYGG839", "254900SZJZFTBGJUPT41", "984500A56BIX95VB5794"]}
+{"name": "Archer Daniels Midland Company, Decatur", "codes": ["A933"], "total": 86, "leis": ["549300LO13MQ9HYSTR83", "254900EAND51FDXI9D08", "254900POEGE8M0ERVG20", "254900JF8ZZILO6Y5I58", "254900NZQ96D41NP0N78"]}
+{"name": "Cargill Inc., Wayzata", "codes": ["A934"], "total": 10, "leis": ["254900ZDKQAKYJ7G7P04", "5493008KDSTT4DP7ED61", "254900EWD4JFM908E841", "5493000SQRAZ2I241I17", "549300JB6MBUTY6EPS41"]}
+{"name": "Imperium Renewables Inc., Seattle", "codes": ["A936"], "total": 127, "leis": ["5493007DEWJ5K31LGZ62", "724500ECNYMY9GKZDC91", "549300X01FL2VJJGCI54", "549300DP4N7XFO3ICF14", "254900SLDADR10CKNQ43"]}
+{"name": "Peter Cremer North America LP, Cincinnati", "codes": ["A937"], "total": 101, "leis": ["5493003MAUCY3WMZY776", "549300B4FTFD5YHVQE19", "254900Y0B3ZV3I35HG65", "254900S7010E5YS2L586", "5493002SIMYN613XG104"]}
+{"name": "World Energy Alternatives LLC, Boston", "codes": ["A939"], "total": 529, "leis": ["894500005FVZO8UZ5H81", "9695005AZ0J260E9NV75", "894500Z11ITI8B09E143", "984500H5C71ABB6LBE30", "335800OGQ3Z2IPOAUE29"]}
+{"name": "Vinmar Overseas, Ltd, Houston", "codes": ["A938"], "total": 133855, "leis": ["549300MMI6MLQL41XU13", "549300LF37KTVGIFFT66", "549300DAVT8RMOA59O71", "254900ZJJIVSI855M303", "969500CIKLVO5ISB7Q70"]}
+{"name": "AC & S Inc., Nitro BioPur Inc., Bethlehem Freedom Fuels LLC, Mason City Integrity Biofuels, Morristown Natural Biodiesel Plant LLC, Hayti Piedmont Biofuels Industrial LLC, Pittsboro Prairie Pride, Deerfield Southeast BioDiesel LLC, Charlotte Stepan Company, Northfield Yokaya Biofuels Inc., Ukiah", "codes": ["A941"], "total": 3, "leis": ["2549007G9PWF1DJ5DZ02", "5493005KXIX0B22XIE11", "549300T1S66LZ4V4NR54"]}
+{"name": "Other", "codes": ["2501", "8900", "A999"], "total": 66, "leis": ["969500Y7J8TEBTN5VN59", "254900H9WSYZ4MREWC53", "743700F6Q9T0KGVCPK62", "9845009X4GA4CD7B7383", "7245007OVO679WG7O090"]}
+{"name": "AG Processing Inc., Omaha Memphis Biofuels, LLC, Memphis Scott Petroleum, Itta Bena", "codes": ["A942"], "total": 190943, "leis": ["549300RT3NFA5VGGHM37", "969500IMTR8N5H3JQL16", "969500TQ2B8O0GIA5K48", "9676005J1153YYSQ1047", "969500ZH1IAP6N4DV033"]}
+{"name": "American Made Fuels, Inc., Canton Alabama Clean Fuels Coalition Inc., Birmingham Arkansas SoyEnergy Group, DeWitt Arlington Energy, LLC, Mansfield Athens Biodiesel, LLC, Athens Beacon Energy, Cleburne Biodiesel of Texas, Inc., Denton BioDiesel One Ltd, Southington Buffalo Biodiesel, Inc, Tonawanda BullDog BioDiesel, Ellenwood Carbon Neutral Solutions, LLC, Mauldin Central Iowa Energy, LLC, Newton Chesapeake Custom Chemical Corp., Ridgeway Community Fuels, Stockton Delta BioFuels, Inc., Natchez Diamond Biofuels, Mazon Direct Fuels, Euless Eagle Creek Fuel Services, LLC, Baltimore Earl Fisher Bio Fuels, Chester East Fork Biodiesel, LLC, Algona ECO Solutions, LLC, Chatsworth Ecogy Biofuels, LLC, Tulsa ED & F Man Biofuels Inc., New Orleans Freedom Biofuels, Inc., Madison Fuel & Lube, LLC, Richmond Fuel Bio, Elizabeth FUMPA Bio Fuels, Redwood Falls Galveston Bay Biodiesel, LP (BioSelect Fuels), Houston Geo Green Fuels, LLC, Houston Georgia Biofuels Corp., Loganville Green River Biodiesel, Inc., Moundville Griffin Industries, Inc., Cold Spring High Plains Bioenergy, Guymon Huish Detergents, Inc., Salt Lake City Incobrasa Industries, Ltd., Gilman Independence Renewable Energy Corp., Perdue Hill Indiana Flex Fuels, LaPorte Innovation Fuels, Inc., Newark Iowa Renewable Energy, LLC, Washington Johann Haltermann Ltd., Houston Lake Erie Biofuels, LLC, Erie Leland Organic Corporation, Leland Louis Dreyfus Agricultural Industries, LLC, Wilton Louis Dreyfus Claypool Holdings LLC, Claypool Middle Georgia Biofuels, East Dublin Middletown Biofuels, LLC, Blairsville Musket Corporation, Oklahoma City New Fuel Company, Dallas North Mississippi Biodiesel, New Albany Northern Biodiesel, Inc., Ontario Northwest Missouri Biofuels, LLC, St. Joseph Nova Biofuels Clinton County, LLC, Clinton Nova Biosource, Senaca Organic Fuels, Ltd, Houston Owensboro Grain Company LLC, Owensboro Paseo Cargill Energy, LLC, Kansas City Peach State Labs, Inc., Rome Perihelion Global, Inc., Opp Philadelphia Fry-O-Diesel Inc., Philadelphia Pinnacle Biofuels, Inc., Crossett PK Biodiesel, Woodstock Pleasant Valley Biofuels, LLC, American Falls RBF Port Neches LLC, Houston Red Birch Energy, Inc., Bassett Red River Biodiesel Ltd., New Boston REG Ralston, LLC, Ralston Renewable Energy Products, LLC, Santa Fe Springs Riksch BioFuels LLC, Crawfordsville Safe Renewable Corp., Conroe Sanimax Energy Inc., DeForest Seminole Biodiesel, Bainbridge Soy Solutions, Milford SoyMor Biodiesel, LLC, Albert Lea Sunshine BioFuels, LLC, Camilla TPA Inc., Warren Trafigura AG, Stamford U.S. Biofuels, Inc., Rome United Oil Company, Pittsbourgh Valco Bioenergy, Harlingen Vanguard Synfuels, LLC, Pollock Vitol Inc., Houston Walsh Bio Diesel, LLC, Mauston Western Dubque Biodiesel, LLC, Farley Western Iowa Energy, LLC, Wall Lake Western Petroleum Company, Eden Prairie", "codes": ["A940"], "total": 400793, "leis": ["9845008115DCE8CFF932", "549300CHG1BSX6ISQ759", "549300O3FOUM1WKX1612", "52990010JM7MU9ONSI47", "894500NR08N00QAJD913"]}
+{"name": "Organic Technologies, Coshocton (Ohio)", "codes": ["C482"], "total": 0, "leis": []}
+{"name": "Imports of HVO Biodiesel originating from the USA are subject to registration.", "codes": ["8A48"], "total": 0, "leis": []}
+{"name": "Excise - full, 541, unrebated heavy oil", "codes": ["X541"], "total": 22, "leis": ["9695006ZCP7GS1QRJU20", "96950015QTQ5GL59R704", "3912007LDBUKS2L3H065", "5493004ILEJ15U40BU67", "815600DA5E6AB2C09711"]}
+{"name": "Excise - full, 556, rebated heavy oil, gas oil", "codes": ["X556"], "total": 28, "leis": ["549300E6TKSUCR35NW83", "9845006BBA5F7DBJDD65", "8156002E79E2BEE16172", "8945007M26JSIHC6LV04", "5493002NMS10UMQ90889"]}
+{"name": "Excise - full, 571, biodiesel for non-road use", "codes": ["X571"], "total": 11, "leis": ["969500LG6IIZSNX4LP09", "254900RSE28O7SUAMC93", "2549006KTBTFQSTGVL52", "254900Q4R13ISFMB0G81", "549300ZGGU14VI91Y261"]}
+{"name": "Excise - full, 572, biodiesel blended with kerosene", "codes": ["X572"], "total": 7, "leis": ["969500NQZLO1CH1QZR56", "254900GJTH74U36LAY63", "549300D86KNULDRVXR52", "254900PUOJ8KHYZ1D609", "254900JPXEDL1GROY768"]}
+{"name": "Excise - full, 589, biodiesel - pure biodiesel", "codes": ["X589"], "total": 10, "leis": ["549300H5LOAIS8NK8D62", "5493002VXBWASJGB2K90", "5493009OSNVMKWWE1U65", "254900DSJ8M2768G6C93", "549300I0BEK7M632ER51"]}
+{"name": "Excise - full, 561, rebated heavy oil, fuel oil", "codes": ["X561"], "total": 45, "leis": ["815600B4261F4D844254", "558600ECLBJORGADPT10", "5493004BBOZWS3QB9674", "8156004B546725F94996", "5493002RRJGR01LQPC95"]}
+{"name": "Excise - full, 522, rebated light oil, unleaded fuel", "codes": ["X522"], "total": 28, "leis": ["254900CNHPPFXK591U98", "391200OEADRY8SLIV323", "9695009QAD46Y246A449", "984500AZ2C498B1C0E20", "254900BCBRQ9GF8F1N26"]}
+{"name": "Excise - full, 520, unrebated light oil, other", "codes": ["X520"], "total": 114, "leis": ["984500C0F3A5A55BEC37", "815600DAF64AAB453958", "969500Y7J8TEBTN5VN59", "254900I918ZQ65R3GU70", "254900CX79ZRI2HDPD31"]}
+{"name": "Excise - full, 542, kerosene as off-road motor vehicle fuel", "codes": ["X542"], "total": 7, "leis": ["5493001B1J5GHLJR4D57", "9845009EB87R2110AB47", "549300BVIM61D5JQEJ26", "549300UDOBZJF7AIYI81", "549300IQEH7HN3GT1R33"]}
+{"name": "Excise - full, 551, rebated heavy oil, kerosene", "codes": ["X551"], "total": 17, "leis": ["6488N377URT53ZIP9715", "894500TE95BUKCHFNA50", "1595VLALMVGYUUMUPV32", "1595WCHHXGQJRCM5R468", "254900B8TK2L07U64064"]}
+{"name": "Chempioil (UAE)", "codes": ["8A39"], "total": 0, "leis": []}
+{"name": "Excise - full, 570, rebated heavy oil, other", "codes": ["X570"], "total": 88, "leis": ["969500NQERQ7N5UM7432", "969500Y7J8TEBTN5VN59", "254900H9WSYZ4MREWC53", "743700F6Q9T0KGVCPK62", "9845009X4GA4CD7B7383"]}
+{"name": "SCT Chemicals FZE (UAE)", "codes": ["8A40"], "total": 0, "leis": []}
+{"name": "All other UAE exporters", "codes": ["8A41"], "total": 0, "leis": []}
+{"name": "Goods which are not passenger car motor oils, heavy duty commercial vehicle oils and hydraulic oils, grades: 5W-30, 5W-40, 0W-16, 0W-20, 0W-30, 10W-40, 10W-30, 20W-50, SAE40, SAE50, 15W-40, ISO32, ISO46, ISO68, HV32, HV46 and HV68.", "codes": ["8A42"], "total": 0, "leis": []}
+{"name": "Atlantic Grease and Lubricants FZE (UAE)", "codes": ["8A51"], "total": 0, "leis": []}
+{"name": "These goods are not passenger car motor oils, heavy duty commercial vehicle oils and hydraulic oils, grades: 5W-30, 5W-40, 0W-16, 0W-20, 0W-30, 10W-40, 10W-30, 20W-50, SAE40, SAE50, 15W-40, ISO32, ISO46, ISO68, HV32, HV46 and HV68.", "codes": ["8055"], "total": 0, "leis": []}
+{"name": "These goods are passenger car motor oils, heavy duty commercial vehicle oils and hydraulic oils, grades: 5W-30, 5W-40, 0W-16, 0W-20, 0W-30, 10W-40, 10W-30, 20W-50, SAE40, SAE50, 15W-40, ISO32, ISO46, ISO68, HV32, HV46 and HV68.", "codes": ["8056"], "total": 0, "leis": []}
+{"name": "UAB SCT Lubricants (Lithuania)", "codes": ["8A36"], "total": 0, "leis": []}
+{"name": "All other Lithuanian exporters", "codes": ["8A37"], "total": 0, "leis": []}
+{"name": "Rutile", "codes": ["8A60"], "total": 3, "leis": ["213800SK7ZZU113IDC59", "894500EPNTDS521LSD07", "894500QOBS3KK6M7HU60"]}
+{"name": "KCKK Branch of Joint Stock Company United Chemical Company Uralchem in Kirovo-Chepetsk", "codes": ["A959"], "total": 0, "leis": []}
+{"name": "Excluded goods", "codes": ["8A61"], "total": 0, "leis": []}
+{"name": "For goods produced by Open Joint Stock Company (OJSC) \"Azot\", Novomoskovsk, Russia or by Open Joint Stock Company (OJSC) \"Nevinnomyssky Azot\", Nevinnomyssk, Russia and either sold directly to the first independent customer in the Community or sold by EuroChem Trading GmbH, Zug, Switzerland or via Open Joint Stock Company (OJSC) Mineral and Chemical Company \"EuroChem\", Moscow, Russia, and EuroChem Trading GmbH, Zug, Switzerland to the first independent customer in the Community", "codes": ["A522"], "total": 216, "leis": ["894500CFLOWKPMPZM213", "894500O90KK9S2YLX023", "8945006INH68WWF4OK46", "529900OZ1THHY1N9PG23", "894500ADJHSANL01VU92"]}
+{"name": "Goods that are Linear low-density polyethylene (LLDPE), originating from the United States of America.", "codes": ["8C11"], "total": 0, "leis": []}
+{"name": "Goods are not Linear Low-Density Polyethylene (LLDPE)", "codes": ["8W02"], "total": 0, "leis": []}
+{"name": "Table 10 & Tables 11 to 13 referred to in section 41 Pharmaceutical substances of the Reliefs Reference Document, Reference documents for The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020 - GOV.UK (www.gov.uk) Please do not use if MFN duty is 0%", "codes": ["2500"], "total": 0, "leis": []}
+{"name": "Formosa Plastics Corporation, USA", "codes": ["8A30"], "total": 2646, "leis": ["529900KGDSQQ2300XV72", "529900M2ET2XK4XL6N76", "636700I9I873XRS0TQ68", "2138002MVUW4Q2SNRI09", "969500J2LV48A3Y5IT90"]}
+{"name": "Reliance Industries Limited", "codes": ["A181"], "total": 5, "leis": ["5493003UOETFYRONLG31", "335800FL1E55CQSY7C42", "3358001EWYELEJACEV40", "3358002GX7DZU37OEI61", "335800ZCHXENFPIKUQ19"]}
+{"name": "Senpet Ltd", "codes": ["A183"], "total": 0, "leis": []}
+{"name": "Pearl Engineering Polymers Ltd.", "codes": ["A182"], "total": 0, "leis": []}
+{"name": "IVL Dhunseri Petrochem Industries Private Limited", "codes": ["C380"], "total": 1, "leis": ["3358007EG6YVVLUPZ647"]}
+{"name": "Futura Polyesters Ltd", "codes": ["A184"], "total": 0, "leis": []}
+{"name": "Since Hardware (Guangzhou) Co., Ltd., Guangzhou", "codes": ["A784"], "total": 133409, "leis": ["529900QF0FWCK1IJ3X31", "969500SABDHG23K82X24", "549300C975GTYZ3MZB69", "5493005IHCUFV30MDO34", "549300FQQ94LTUSGUT05"]}
+{"name": "Foshan City Gaoming Lihe Daily Necessities Co. Ltd., Foshan", "codes": ["A782"], "total": 4, "leis": ["529900EF1YK2KVSLPF75", "254900GLRZ79MH5JI029", "254900Z9CKUHKQALBA37", "54930015JKOS75D40R14"]}
+{"name": "Zhejiang Harmonic Hardware Products Co. Ltd., Guzhou", "codes": ["A786"], "total": 0, "leis": []}
+{"name": "Guangzhou Power Team Houseware Co. Ltd., Guangzhou", "codes": ["A783"], "total": 14, "leis": ["969500SABDHG23K82X24", "529900QF0FWCK1IJ3X31", "549300C975GTYZ3MZB69", "549300NRK1LHOJPN7C30", "300300833UAV7AQF2147"]}
+{"name": "Guangdong Wireking Household Supplies Co. Ltd, Foshan", "codes": ["A785"], "total": 4, "leis": ["529900EF1YK2KVSLPF75", "254900GLRZ79MH5JI029", "254900Z9CKUHKQALBA37", "54930015JKOS75D40R14"]}
+{"name": "Greenwood Houseware (Zhuhai) Ltd, Guangdong", "codes": ["A953"], "total": 8, "leis": ["5299008LASTCDIKA3327", "254900MHAM3NT71GHU18", "213800V3YS8JI89OIF35", "549300CS6AH6PYQO1M40", "655600VGIWBKH148HT90"]}
+{"name": "Articles of wood, between 50 and 100 years old, other than those covered by the additional codes 4008, 4010, 4011, 4013, 4023, 4040 - 4048", "codes": ["4056"], "total": 9, "leis": ["2549009I8Z07BQDYRU15", "635400DCTB4XOAPTRN03", "549300JE74ETECXPX171", "254900DT8S72C3A7ZZ03", "549300DWKSFHRF8MIH02"]}
+{"name": "The Hankook Group (Chongqing Hankook Tire Co., Ltd And Jiangsu Hankook Tire Co., Ltd)", "codes": ["C334"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Use additional code 8C10 when importing the goods concerned", "codes": ["8C10"], "total": 0, "leis": []}
+{"name": "Other than those mentioned in Regulation (EC) no 1210/2003 (OJ L 169): no restrictions", "codes": ["4099"], "total": 0, "leis": []}
+{"name": "Limestone originating from Portugal that is neither creamy, nor white, nor creamy white. Importers of any product classified to one of the commodity codes set out in this notice that is not creamy, white or creamy-white Portuguese origin limestone must use additional code 8C15 to identify the product as excluded from the registration of goods.", "codes": ["8C15"], "total": 0, "leis": []}
+{"name": "Guangdong Xinruncheng Ceramics Co. Ltd.", "codes": ["B009"], "total": 0, "leis": []}
+{"name": "All imports of ceramic tiles that, individually, have: a largest surface area exceeding 0.36m2, unless the differential relief on the largest surface exceeds 3mm or: an edge longer than 600mm, unless the differential relief on the largest surface exceeds 3mm", "codes": ["8A58"], "total": 2, "leis": ["2549009JG0BTEZ4H9B45", "2549003S7097X8YYOE80"]}
+{"name": "Shandong Yadi Ceramics Co. Ltd.", "codes": ["B010"], "total": 0, "leis": []}
+{"name": "Dongguan He Mei Ceramics Co. Ltd", "codes": ["B132"], "total": 0, "leis": []}
+{"name": "Enping City Huachang Ceramic Co. Ltd", "codes": ["B135"], "total": 0, "leis": []}
+{"name": "Dongpeng Ceramic (Qingyuan) Co. Ltd", "codes": ["B133"], "total": 0, "leis": []}
+{"name": "Eagle Brand Ceramics Industrial (Heyuan) Co. Ltd", "codes": ["B134"], "total": 0, "leis": []}
+{"name": "Enping Huiying Ceramics Industry Co. Ltd", "codes": ["B136"], "total": 0, "leis": []}
+{"name": "Foshan Aoling Jinggong Ceramics Co. Ltd", "codes": ["B138"], "total": 0, "leis": []}
+{"name": "Enping Yungo Ceramic Co. Ltd", "codes": ["B137"], "total": 0, "leis": []}
+{"name": "Foshan Bailifeng Building Materials Co. Ltd", "codes": ["B139"], "total": 0, "leis": []}
+{"name": "Foshan Bragi Ceramic Co. Ltd", "codes": ["B140"], "total": 0, "leis": []}
+{"name": "Foshan Gaoming Shuncheng Ceramic Co. Ltd", "codes": ["B142"], "total": 0, "leis": []}
+{"name": "Foshan Gaoming Yaju Ceramics Co. Ltd", "codes": ["B143"], "total": 0, "leis": []}
+{"name": "Foshan City Fangyuan Ceramic Co. Ltd", "codes": ["B141"], "total": 0, "leis": []}
+{"name": "Foshan Guanzhu Ceramics Co. Ltd", "codes": ["B144"], "total": 0, "leis": []}
+{"name": "Foshan Jiajun Ceramics Co. Ltd", "codes": ["B146"], "total": 0, "leis": []}
+{"name": "Foshan Mingzhao Technology Development Co. Ltd", "codes": ["B147"], "total": 0, "leis": []}
+{"name": "Foshan Huashengchang Ceramic Co. Ltd", "codes": ["B145"], "total": 0, "leis": []}
+{"name": "Foshan Nanhai Shengdige Decoration Material Co. Ltd", "codes": ["B149"], "total": 0, "leis": []}
+{"name": "Foshan Nanhai Xiaotang Jinzun Border Factory Co. Ltd", "codes": ["B150"], "total": 0, "leis": []}
+{"name": "Foshan Nanhai Jingye Ceramics Co. Ltd", "codes": ["B148"], "total": 0, "leis": []}
+{"name": "Foshan Nanhai Yonghong Ceramic Co. Ltd", "codes": ["B151"], "total": 0, "leis": []}
+{"name": "Foshan Oceanland Ceramics Co. Ltd", "codes": ["B152"], "total": 0, "leis": []}
+{"name": "Foshan Sanshui Huiwanjia Ceramics Co. Ltd", "codes": ["B155"], "total": 0, "leis": []}
+{"name": "Foshan Sanshui Hongyuan Ceramics Enterprise Co. Ltd", "codes": ["B154"], "total": 0, "leis": []}
+{"name": "Foshan Oceano Ceramics Co. Ltd", "codes": ["B153"], "total": 0, "leis": []}
+{"name": "Foshan Sanshui New Pearl Construction Ceramics Industrial Co. Ltd", "codes": ["B156"], "total": 0, "leis": []}
+{"name": "Foshan Shiwan Eagle Brand Ceramic Ltd", "codes": ["B157"], "total": 0, "leis": []}
+{"name": "Foshan Shiwan Yulong Ceramics Co. Ltd", "codes": ["B158"], "total": 0, "leis": []}
+{"name": "Foshan Summit Ceramics Co. Ltd", "codes": ["B159"], "total": 0, "leis": []}
+{"name": "Foshan Tidiy Ceramics Co. Ltd", "codes": ["B160"], "total": 0, "leis": []}
+{"name": "Foshan Xingtai Ceramics Co. Ltd", "codes": ["B162"], "total": 0, "leis": []}
+{"name": "Foshan VIGORBOOM Ceramic Co. Ltd", "codes": ["B161"], "total": 0, "leis": []}
+{"name": "Foshan Zhuyangyang Ceramics Co. Ltd", "codes": ["B163"], "total": 0, "leis": []}
+{"name": "Fujian Minqing Jiali Ceramics Co. Ltd", "codes": ["B166"], "total": 0, "leis": []}
+{"name": "Fujian Fuzhou Zhongxin Ceramics Co. Ltd", "codes": ["B164"], "total": 0, "leis": []}
+{"name": "Fujian Jinjiang Lianxing Building Material Co. Ltd", "codes": ["B165"], "total": 0, "leis": []}
+{"name": "Fujian Minqing Ruimei Ceramics Co. Ltd", "codes": ["B167"], "total": 0, "leis": []}
+{"name": "Guangdong Bode Fine Building Materials Co. Ltd", "codes": ["B170"], "total": 0, "leis": []}
+{"name": "Guangdong Foshan Redpearl Building Material Co. Ltd", "codes": ["B171"], "total": 0, "leis": []}
+{"name": "Gaoyao Yushan Ceramics Industry Co. Ltd", "codes": ["B169"], "total": 0, "leis": []}
+{"name": "Fujian Minqing Shuangxing Ceramics Co. Ltd", "codes": ["B168"], "total": 0, "leis": []}
+{"name": "Guangdong Grifine Ceramics Co. Ltd", "codes": ["B173"], "total": 0, "leis": []}
+{"name": "Guangdong Gold Medal Ceramics Co. Ltd", "codes": ["B172"], "total": 0, "leis": []}
+{"name": "Guangdong Homeway Ceramics Industry Co. Ltd", "codes": ["B174"], "total": 0, "leis": []}
+{"name": "Guangdong Huiya Ceramics Co. Ltd", "codes": ["B175"], "total": 0, "leis": []}
+{"name": "Guangdong Juimsi Ceramics Co. Ltd", "codes": ["B176"], "total": 0, "leis": []}
+{"name": "Guangdong Kaiping Tilee's Building Materials Co. Ltd", "codes": ["B177"], "total": 0, "leis": []}
+{"name": "Guangdong Kingdom Ceramics Co. Ltd", "codes": ["B178"], "total": 0, "leis": []}
+{"name": "Monalisa Group Co., Ltd", "codes": ["B179"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Ouya Ceramics Co. Ltd", "codes": ["B181"], "total": 0, "leis": []}
+{"name": "Guangdong Overland Ceramics Co. Ltd", "codes": ["B182"], "total": 0, "leis": []}
+{"name": "Guangdong Qianghui (QHTC) Ceramics Co. Ltd", "codes": ["B183"], "total": 0, "leis": []}
+{"name": "Guangdong New Zhong Yuan Ceramics Co. Ltd Shunde Yuezhong Branch", "codes": ["B180"], "total": 0, "leis": []}
+{"name": "Guangdong Summit Ceramics Co. Ltd", "codes": ["B185"], "total": 0, "leis": []}
+{"name": "Guangdong Sihui Kedi Ceramics Co. Ltd", "codes": ["B184"], "total": 0, "leis": []}
+{"name": "Guangdong Tianbi Ceramics Co. Ltd", "codes": ["B186"], "total": 0, "leis": []}
+{"name": "Guangdong Winto Ceramics Co. Ltd", "codes": ["B187"], "total": 0, "leis": []}
+{"name": "Guangning County Oudian Art Ceramic Co. Ltd", "codes": ["B189"], "total": 0, "leis": []}
+{"name": "Guangdong Xinghui Ceramics Group Co. Ltd", "codes": ["B188"], "total": 0, "leis": []}
+{"name": "Hangzhou Nabel Ceramics Co. Ltd", "codes": ["B191"], "total": 0, "leis": []}
+{"name": "Guangzhou Cowin Ceramics Co. Ltd", "codes": ["B190"], "total": 0, "leis": []}
+{"name": "Hangzhou Venice Ceramics Co. Ltd", "codes": ["B193"], "total": 0, "leis": []}
+{"name": "Heyuan Becarry Ceramics Co. Ltd", "codes": ["B194"], "total": 0, "leis": []}
+{"name": "Hangzhou Nabel Group Co. Ltd", "codes": ["B192"], "total": 0, "leis": []}
+{"name": "Guangdong Luxury Micro-crystal stone Technology Co., Ltd", "codes": ["B195"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Huiyang Kingtile Ceramics Co. Ltd", "codes": ["B197"], "total": 0, "leis": []}
+{"name": "Jingdezhen Tidiy Ceramics Co. Ltd", "codes": ["B199"], "total": 0, "leis": []}
+{"name": "Hitom Ceramics Co. Ltd", "codes": ["B196"], "total": 0, "leis": []}
+{"name": "Jiangxi Ouya Ceramics Co. Ltd", "codes": ["B198"], "total": 0, "leis": []}
+{"name": "Kim Hin Ceramics (Shanghai) Co. Ltd", "codes": ["B200"], "total": 0, "leis": []}
+{"name": "Lixian Xinpeng Ceramic Co. Ltd", "codes": ["B201"], "total": 0, "leis": []}
+{"name": "Louis Valentino (Inner Mongolia) Ceramic Co. Ltd", "codes": ["B202"], "total": 0, "leis": []}
+{"name": "Louvrenike (Foshan) Ceramics Co. Ltd", "codes": ["B203"], "total": 0, "leis": []}
+{"name": "Nabel Ceramics (Jiujiang City) Co. Ltd", "codes": ["B204"], "total": 0, "leis": []}
+{"name": "Ordos Xinghui Ceramics Co. Ltd", "codes": ["B205"], "total": 0, "leis": []}
+{"name": "Qingyuan Guanxingwang Ceramics Co. Ltd", "codes": ["B207"], "total": 0, "leis": []}
+{"name": "Qingdao Diya Ceramics Co. Ltd", "codes": ["B206"], "total": 0, "leis": []}
+{"name": "Qingyuan Oudian Art Ceramic Co. Ltd", "codes": ["B208"], "total": 0, "leis": []}
+{"name": "Qingyuan Ouya Ceramics Co. Ltd", "codes": ["B209"], "total": 0, "leis": []}
+{"name": "Shandong ASA Ceramic Co. Ltd", "codes": ["B211"], "total": 0, "leis": []}
+{"name": "RAK (Gaoyao) Ceramics Co. Ltd", "codes": ["B210"], "total": 0, "leis": []}
+{"name": "Shandong Dongpeng Ceramic Co. Ltd", "codes": ["B212"], "total": 0, "leis": []}
+{"name": "Shandong Jialiya Ceramic Co. Ltd", "codes": ["B213"], "total": 0, "leis": []}
+{"name": "Shanghai CIMIC Holdings Co., Ltd", "codes": ["B214"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Sinyih Ceramic (China) Co. Ltd", "codes": ["B215"], "total": 0, "leis": []}
+{"name": "Southern Building Materials and Sanitary Co. Ltd of Qingyuan", "codes": ["B217"], "total": 0, "leis": []}
+{"name": "Sinyih Ceramic (Penglai) Co. Ltd", "codes": ["B216"], "total": 0, "leis": []}
+{"name": "Tangshan Huida Ceramic Group Huiquin Co. Ltd", "codes": ["B219"], "total": 0, "leis": []}
+{"name": "Tangshan Huida Ceramic Group Co. Ltd", "codes": ["B218"], "total": 0, "leis": []}
+{"name": "Topbro Ceramics Co. Ltd", "codes": ["B222"], "total": 0, "leis": []}
+{"name": "Tegaote Ceramics Co. Ltd", "codes": ["B220"], "total": 0, "leis": []}
+{"name": "Xingning Christ Craftworks Co. Ltd", "codes": ["B223"], "total": 0, "leis": []}
+{"name": "Tianjin Honghui Creative Technology Co., Ltd", "codes": ["B221"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhaoqing Zhongheng Ceramics Co. Ltd", "codes": ["B226"], "total": 0, "leis": []}
+{"name": "Zhaoqing Jin Ouya Ceramics Company Limited", "codes": ["B225"], "total": 0, "leis": []}
+{"name": "Zhao Qing City Shenghui Ceramics Co. Ltd", "codes": ["B224"], "total": 0, "leis": []}
+{"name": "Zibo Hualiansheng Ceramics Co. Ltd", "codes": ["B227"], "total": 0, "leis": []}
+{"name": "Shandong Tongyi Ceramics Co. Ltd", "codes": ["B229"], "total": 0, "leis": []}
+{"name": "Zibo Huaruinuo Ceramics Co. Ltd", "codes": ["B228"], "total": 0, "leis": []}
+{"name": "Dongguan City Wonderful Ceramics Industrial Park Co. Ltd; Guangdong Jiamei Ceramics Co. Ltd", "codes": ["B938"], "total": 0, "leis": []}
+{"name": "Onna Ceramic Industries (China) Co., Ltd", "codes": ["B293"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Qingyuan Gani Ceramics Co. Ltd; Foshan Gani Ceramics Co. Ltd", "codes": ["B939"], "total": 0, "leis": []}
+{"name": "Zhuhai Xuri Ceramics Co., Ltd", "codes": ["C505"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Everstone Industry (Qingdao) Co., Ltd", "codes": ["B998"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Pottery, between 50 and 100 years old, other than those covered by the additional codes 4008, 4010, 4011, 4013, 4023, 4040 - 4048", "codes": ["4057"], "total": 26, "leis": ["3358004ZTBQ1C35GK154", "2549009I8Z07BQDYRU15", "254900F3MSG7GXTX8F25", "984500BDAE8C06ADFD05", "2138008YQEXXBH4CQC77"]}
+{"name": "Hunan Jewelmoon Ceramics Co., Ltd (“Jewelmoon”)", "codes": ["8A23"], "total": 0, "leis": []}
+{"name": "Linyi Hongshun Porcelain Co, Ltd (“Linyi Hongshun”)", "codes": ["8A27"], "total": 0, "leis": []}
+{"name": "Guangxi Sanhuan Enterprise Group Holding Co., Ltd", "codes": ["B350"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Hualian China Industry Co., Ltd; Hunan Hualian Ebillion China Industry Co., Ltd; Hunan Liling Hongguanyao China Industry Co., Ltd; Hunan Hualian Yuxiang China Industry Co., Ltd.", "codes": ["B349"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Asianera Porcelain (Tangshan) Ltd.", "codes": ["B358"], "total": 0, "leis": []}
+{"name": "Amaida Ceramic Product Co., Ltd.", "codes": ["B357"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shandong Zibo Niceton-Marck Huaguang Ceramics Limited; Zibo Huatong Ceramics Co., Ltd; Shandong Silver Phoenix Co., Ltd; Niceton Ceramics (Linyi) Co., Ltd; Linyi Jingshi Ceramics Co., Ltd; Linyi Silver Phoenix Ceramics Co., Ltd; Linyi Chunguang Ceramics Co., Ltd; Linyi Zefeng Ceramics Co., Ltd.", "codes": ["B352"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Beiliu Changlong Ceramics Co., Ltd.", "codes": ["B359"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Beiliu City Heyun Building Materials Co., Ltd.", "codes": ["B361"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Beiliu Quanli Ceramic Co., Ltd.", "codes": ["B363"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Beiliu Shimin Porcelain Co., Ltd.", "codes": ["B364"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Beiliu Windview Industries Ltd.", "codes": ["B365"], "total": 0, "leis": []}
+{"name": "Chao An Huadayu Craftwork Factory", "codes": ["B368"], "total": 0, "leis": []}
+{"name": "Chaoan County Fengtang Town HaoYe Ceramic Fty", "codes": ["B369"], "total": 0, "leis": []}
+{"name": "Cameo China (Fengfeng) Co., Ltd.", "codes": ["B366"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changsha Happy Go Products Developing Co., Ltd.", "codes": ["B367"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaoan Xin Yuan Ceramics Factory", "codes": ["B373"], "total": 0, "leis": []}
+{"name": "Chao'an Lian Xing Yuan Ceramics Co., Ltd.", "codes": ["B370"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaoan Oh Yeah Ceramics Industrial Co., Ltd.", "codes": ["B371"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaoan Shengyang Crafts Industrial Co., Ltd", "codes": ["B372"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Baodayi Porcelain Co., Ltd.", "codes": ["B375"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Baode Ceramics Co., Ltd,", "codes": ["B376"], "total": null, "leis": [], "error": "HTTP 400"}
+{"name": "Chao'an Yongsheng Ceramic Industry Co., Ltd.", "codes": ["B374"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Baolian Ceramics Co., Ltd.", "codes": ["B377"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Big Arrow Ceramics Industrial Co., Ltd.", "codes": ["B378"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Boshifa Ceramics Making Co., Ltd.", "codes": ["B379"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Cantake Craft Co., Ltd.", "codes": ["B380"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Ceramics Industry and Trade General Corp.", "codes": ["B381"], "total": 0, "leis": []}
+{"name": "Chaozhou Chengxi Jijie Art & Craft Painted Porcelain Fty.", "codes": ["B383"], "total": 0, "leis": []}
+{"name": "Chaozhou Chengxinda Ceramics Industry Co., Ltd.", "codes": ["B384"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Chaofeng Ceramic Making Co., Ltd.", "codes": ["B382"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Chenhui Ceramics Co., Ltd.", "codes": ["B385"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou DaXing Ceramics Manufactory Co., Ltd", "codes": ["B388"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Chonvson Ceramics Industry Co., Ltd.", "codes": ["B386"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Daxin Arts & Crafts Co., Ltd.", "codes": ["B387"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Dayi Ceramics Industries Co., Ltd.", "codes": ["B389"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Dehong Ceramics Making Co., Ltd.", "codes": ["B390"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Deko Ceramic Co., Ltd.", "codes": ["B391"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Diamond Ceramics Industrial Co., Ltd.", "codes": ["B392"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Dongyi Ceramics Co., Ltd.", "codes": ["B393"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Dragon Porcelain Industrial Co., Ltd.", "codes": ["B394"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Fairway Ceramics Manufacturing Co., Ltd.", "codes": ["B395"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Feida Ceramics Industries Co., Ltd.", "codes": ["B396"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Fengxi Baita Ceramics Fty.", "codes": ["B397"], "total": 0, "leis": []}
+{"name": "Chaozhou Fengxi Dongtian Porcelain Fty. No.2", "codes": ["B398"], "total": 0, "leis": []}
+{"name": "Chaozhou Fengxi Fenger Ceramics Craft Fty.", "codes": ["B399"], "total": 0, "leis": []}
+{"name": "Chaozhou Fengxi Hongrong Color Porcelain Fty.", "codes": ["B400"], "total": 0, "leis": []}
+{"name": "Chaozhou Fengxi Shengshui Porcelain Art Factory", "codes": ["B403"], "total": 0, "leis": []}
+{"name": "Guangdong GMT Foreign Trade Service Corp.", "codes": ["B402"], "total": 0, "leis": []}
+{"name": "Chaozhou Fengxi Jiaxiang Ceramic Manufactory", "codes": ["B401"], "total": 0, "leis": []}
+{"name": "Chaozhou Fengxi Zone Jinbaichuan Porcelain Crafts Factory", "codes": ["B404"], "total": 0, "leis": []}
+{"name": "Chaozhou Grand Collection Ceramics Manufacturing Co. Ltd.", "codes": ["B408"], "total": 0, "leis": []}
+{"name": "Chaozhou Good Concept Ceramics Co., Ltd.", "codes": ["B407"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Genol Ceramics Manufacture Co., Ltd.", "codes": ["B406"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Fromone Ceramic Co., Ltd.", "codes": ["B405"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Guidu Ceramics Co., Ltd.", "codes": ["B410"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Guangjia Ceramics Manufacture Co., Ltd.", "codes": ["B409"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Hengchuang Porcelain Co., Ltd.", "codes": ["B412"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Haihong Ceramics Making Co., Ltd.", "codes": ["B411"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Henglibao Porcelain Industrial Co., Ltd.", "codes": ["B413"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Hongbo Ceramics Industrial Co., Ltd.", "codes": ["B414"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Hongjia Ceramics Making Co., Ltd.", "codes": ["B415"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Hongye Ceramics Manufactory Co., Ltd.", "codes": ["B416"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Hongye Porcelain Development Co., Ltd.", "codes": ["B417"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Hongyue Porcelain Industry Co., Ltd.", "codes": ["B418"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Hongzhan Ceramic Manufacture Co., Ltd.", "codes": ["B419"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Hua Da Ceramics Making Co., Ltd.", "codes": ["B420"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Huabo Ceramic Co., Ltd.", "codes": ["B421"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Huade Ceramics Manufacture Co., Ltd.", "codes": ["B422"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Huashan Industrial Co., Ltd.", "codes": ["B423"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Huayu Ceramics Co., Ltd.", "codes": ["B424"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Huazhong Ceramics Industries Co., Ltd.", "codes": ["B425"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Huifeng Ceramics Craft Making Co., Ltd.", "codes": ["B426"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jencymic Co., Ltd.", "codes": ["B428"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou J&M Ceramics Industrial Co., Ltd.", "codes": ["B427"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jiahuabao Ceramics Industrial Co., Ltd.", "codes": ["B430"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jiahua Ceramics Co., Ltd.", "codes": ["B429"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou JiaHui Ceramic Factory", "codes": ["B431"], "total": 0, "leis": []}
+{"name": "Chaozhou Jiaye Ceramics Making Co., Ltd.", "codes": ["B432"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jiayi Ceramics Making Co., Ltd.", "codes": ["B433"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jiayu Ceramics Making Co., Ltd.", "codes": ["B434"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jin Jia Da Porcelain Industry Co., Ltd.", "codes": ["B435"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jingfeng Ceramics Craft Co., Ltd.", "codes": ["B436"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Jinqiangyi Ceramics Co., Ltd.", "codes": ["B437"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jinxin Ceramics Making Co., Ltd", "codes": ["B438"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Jinyuanli Ceramics Manufacture Co., Ltd.", "codes": ["B439"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Kaibo Ceramics Making Co., Ltd.", "codes": ["B440"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Kedali Porcelain Industrial Co., Ltd.", "codes": ["B441"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou King's Porcelain Industry Co., Ltd.", "codes": ["B442"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Kingwave Porcelain & Pigment Co., Ltd.", "codes": ["B443"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Lemontree Tableware Co., Ltd.", "codes": ["B444"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Lianfeng Porcelain Co., Ltd.", "codes": ["B445"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "ChaoZhou Lianyuan Ceramic Making Co., Ltd.", "codes": ["B448"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Lianyu Ceramics Co., Ltd.", "codes": ["B447"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Lisheng Ceramics Co., Ltd.", "codes": ["B449"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Loving Home Porcelain Co., Ltd.", "codes": ["B450"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou MBB Porcelain Factory", "codes": ["B452"], "total": 0, "leis": []}
+{"name": "Guangdong Mingyu Technology Joint Stock Limited Company", "codes": ["B453"], "total": 0, "leis": []}
+{"name": "Chaozhou Maocheng Industry Dve. Co., Ltd.", "codes": ["B451"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou New Power Co., Ltd.", "codes": ["B454"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Oubo Ceramics Co., Ltd.", "codes": ["B456"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Ohga Porcelain Co.,Ltd.", "codes": ["B455"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Pengfa Ceramics Manufactory Co., Ltd.", "codes": ["B457"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Pengxing Ceramics Co., Ltd.", "codes": ["B458"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Qingfa Ceramics Co., Ltd.", "codes": ["B459"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Ronglibao Homeware Co., Ltd.", "codes": ["B461"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Ronghua Ceramics Making Co., Ltd.", "codes": ["B460"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Rui Xiang Porcelain Industrial Co., Ltd.", "codes": ["B463"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Rui Cheng Porcelain Industry Co., Ltd.", "codes": ["B462"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Ruilong Ceramics Co., Ltd.", "codes": ["B464"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Sanhua Ceramics Industrial Co., Ltd.", "codes": ["B465"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Santai Porcelain Co., Ltd.", "codes": ["B467"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Sanming Industrial Co., Ltd.", "codes": ["B466"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Shuntai Ceramic Manufactory Co., Ltd.", "codes": ["B468"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Songfa Ceramics Co.,Ltd.", "codes": ["B469"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Sundisk Ceramics Making Co., Ltd.", "codes": ["B470"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Teemjade Ceramics Co., Ltd.", "codes": ["B471"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Thyme Ceramics Co., Ltd.", "codes": ["B472"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Tongxing Huajiang Ceramics Making Co., Ltd", "codes": ["B473"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Trend Arts & Crafts Co., Ltd.", "codes": ["B475"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Totye Ceramics Industrial Co., Ltd.", "codes": ["B474"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Uncommon Craft Industrial Co., Ltd.", "codes": ["B476"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Weida Ceramic Making Co., Ltd.", "codes": ["B477"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Weigao Ceramic Craft Co., Ltd.", "codes": ["B478"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Wingoal Ceramics Industrial Co., Ltd.", "codes": ["B479"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Wood House Porcelain Co., Ltd.", "codes": ["B480"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Xiangye Ceramics Craft Making Co., Ltd.", "codes": ["B481"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Xin Weicheng Co., Ltd.", "codes": ["B482"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Xincheng Ceramics Co., Ltd.", "codes": ["B483"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Xingguang Ceramics Co., Ltd.", "codes": ["B485"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Wenhui Porcelain Co., Ltd.", "codes": ["B486"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Xinkai Porcelain Co., Ltd.", "codes": ["B487"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Xinlong Porcelain Industrial Co., Ltd.", "codes": ["B488"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Xinyu Porcelain Industrial Co., Ltd.", "codes": ["B489"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Xinyue Ceramics Manufacture Co., Ltd.", "codes": ["B490"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Yangguang Ceramics Co., Ltd.", "codes": ["B491"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Yinhe Ceramics Co., Ltd.", "codes": ["B493"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Yongsheng Ceramics Manufacturing Co., Ltd.", "codes": ["B494"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Yongxuan Domestic Ceramics Manufactory Co., Ltd.", "codes": ["B495"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Yu Ri Ceramics Making Co., Ltd.", "codes": ["B496"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Yufeng Ceramics Making Factory", "codes": ["B498"], "total": 0, "leis": []}
+{"name": "Chaozhou Yuefeng Ceramics Ind. Co., Ltd.", "codes": ["B497"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Zhongxia Porcelain Factory Co., Ltd.", "codes": ["B499"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Chaozhou Zhongye Ceramics Co., Ltd.", "codes": ["B500"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dabu Yongxingxiang Ceramics Co., Ltd.", "codes": ["B501"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dapu Taoyuan Porcelain Factory", "codes": ["B503"], "total": 0, "leis": []}
+{"name": "Dapu Fuda Ceramics Co., Ltd.", "codes": ["B502"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dasheng Ceramics Co., Ltd. Dehua", "codes": ["B504"], "total": 0, "leis": []}
+{"name": "De Hua Hongshun Ceramic Co., Ltd.", "codes": ["B505"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dehua Jianyi Porcelain Industry Co., Ltd.", "codes": ["B507"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dehua Hongsheng Ceramic Co., Ltd.", "codes": ["B506"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dehua Kaiyuan Porcelain Industry Co., Ltd.", "codes": ["B508"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dehua Ruyuan Gifts Co., Ltd.", "codes": ["B509"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dongguan Kennex Ceramic Ltd.", "codes": ["B511"], "total": 0, "leis": []}
+{"name": "Dehua Xinmei Ceramics Co., Ltd.", "codes": ["B510"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dongguan Shilong Kyocera Co., Ltd.", "codes": ["B512"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dongguan Yongfuda Ceramics Co., Ltd.", "codes": ["B513"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fair-Link Limited (Xiamen)", "codes": ["B516"], "total": 0, "leis": []}
+{"name": "Excellent Porcelain Co., Ltd.", "codes": ["B515"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Far East (chaozhou) Ceramics Factory Co., Ltd.", "codes": ["B518"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fengfeng Mining District Yuhang Ceramic Co. Ltd. (\"Yuhang\")", "codes": ["B519"], "total": 0, "leis": []}
+{"name": "Foshan Metart Company Limited", "codes": ["B520"], "total": 0, "leis": []}
+{"name": "Fujian Jiashun Art&Crafts Co., Ltd", "codes": ["B521"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Chengyi Ceramics Co., Ltd.", "codes": ["B522"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Five Continents Ceramic Manufacturing Co., Ltd.", "codes": ["B523"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Fujue Ceramics Co., Ltd.", "codes": ["B524"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Fusheng Ceramics Co., Ltd.", "codes": ["B526"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Full Win Crafts Co., Ltd.", "codes": ["B525"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Gentle Porcelain Co., Ltd.", "codes": ["B527"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Guanhong Ceramic Co., Ltd.", "codes": ["B528"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Guanjie Ceramics Co., Ltd.", "codes": ["B529"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Luzerne (Fujian) Group Co., Ltd", "codes": ["B530"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Hongda Ceramics Co., Ltd.", "codes": ["B531"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Hongsheng Arts & Crafts Co., Ltd.", "codes": ["B532"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Hongyu Ceramic Co., Ltd.", "codes": ["B533"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Huachen Ceramics Co., Ltd.", "codes": ["B534"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Huaxia Ceramics Co., Ltd.", "codes": ["B535"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Huilong Ceramic Co., Ltd.", "codes": ["B536"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Jinhua Porcelain Co., Ltd.", "codes": ["B538"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Jingyi Ceramics Co., Ltd.", "codes": ["B537"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Jinzhu Ceramics Co., Ltd.", "codes": ["B539"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Lianda Ceramic Co., Ltd.", "codes": ["B540"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Pengxin Ceramics Co., Ltd.", "codes": ["B542"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Myinghua Ceramics Co., Ltd.", "codes": ["B541"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Shisheng Ceramics Co., Ltd.", "codes": ["B544"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Xianda Ceramic Factory", "codes": ["B546"], "total": 0, "leis": []}
+{"name": "Fujian Dehua Xianghui Ceramic Co., Ltd.", "codes": ["B547"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Will Ceramic Co., Ltd.", "codes": ["B545"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Yonghuang Ceramic Co., Ltd.", "codes": ["B549"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Yousheng Ceramics Co., Ltd.", "codes": ["B550"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua You-Young Crafts Co., Ltd.", "codes": ["B551"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Zhenfeng Ceramics Co., Ltd.", "codes": ["B552"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Zhennan Ceramics Co., Ltd.", "codes": ["B553"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Jackson Arts and Crafts Co., Ltd.", "codes": ["B554"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Jiamei Group Corporation", "codes": ["B555"], "total": 0, "leis": []}
+{"name": "Fujian Province Dehua County Beatrot Ceramic Co., Ltd.", "codes": ["B557"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Province Yongchun County Foreign Processing and Assembling Corporation", "codes": ["B558"], "total": 0, "leis": []}
+{"name": "Fujian Quanzhou Longpeng Group Co., Ltd.", "codes": ["B559"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fung Lin Wah Group", "codes": ["B561"], "total": 0, "leis": []}
+{"name": "Ganzhou Koin Structure Ceramics Co., Ltd.", "codes": ["B562"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua S&M Arts Co., Ltd., and Fujian Taigu Ceramics Co., Ltd.", "codes": ["B560"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Global Housewares Factory", "codes": ["B563"], "total": 0, "leis": []}
+{"name": "Guangdong Baofeng Ceramic Technology Development Co., Ltd.", "codes": ["B564"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Daye Porcelain Co., Ltd.", "codes": ["B566"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Bening Ceramics Industries Co., Ltd.", "codes": ["B565"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Dongbao Group Co., Ltd.", "codes": ["B567"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Huaxing Ceramics Co., Ltd.", "codes": ["B568"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Quanfu Ceramics Ind. Co., Ltd.", "codes": ["B569"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Shunqiang Ceramics Co., Ltd", "codes": ["B570"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Shunxiang Porcelain Co., Ltd.", "codes": ["B571"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Sitong Group Co., Ltd.", "codes": ["B572"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "GuangDong XingTaiYi Porcelain Co., Ltd", "codes": ["B574"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Yutai Porcelain Co., Ltd.", "codes": ["B575"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Zhentong Ceramics Co., Ltd", "codes": ["B576"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangxi Baian Ceramic Co. Ltd", "codes": ["B577"], "total": 0, "leis": []}
+{"name": "Guangxi Beiliu Huasheng Porcelain Ltd.", "codes": ["B580"], "total": 0, "leis": []}
+{"name": "Guangxi Beiliu City Ming Chao Porcelain Co., Ltd.", "codes": ["B578"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangxi Beiliu Newcentury Ceramic Llc.", "codes": ["B581"], "total": 0, "leis": []}
+{"name": "Guangxi Beiliu Qinglang Porcelain Trade Co., Ltd.", "codes": ["B582"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangxi Beiliu Yujie Porcelain Co., Ltd.", "codes": ["B585"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangxi Beiliu Xiongfa Ceramics Co., Ltd.", "codes": ["B584"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangxi Beiliu Zhongli Ceramics Co., Ltd", "codes": ["B586"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Haofa Ceramics Co., Ltd. of Dehua Fujian", "codes": ["B591"], "total": 0, "leis": []}
+{"name": "Guangxi Yulin Rongxing Ceramics Co., Ltd.", "codes": ["B589"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangxi Nanshan Porcelain Co., Ltd.", "codes": ["B587"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangzhou Chaintime Porcelain Co., Ltd.", "codes": ["B590"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hebei Great Wall Ceramic Co., Ltd.", "codes": ["B593"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hebei Dersun Ceramic Co., Ltd.", "codes": ["B592"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Henan Ruilong Ceramics Co., Ltd", "codes": ["B594"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Henghui Porcelain Plant Liling Hunan China", "codes": ["B595"], "total": 0, "leis": []}
+{"name": "Huanyu Ceramic Industrial Co., Ltd. Liling Hunan China", "codes": ["B596"], "total": 0, "leis": []}
+{"name": "Hunan Baihua Ceramics Co., Ltd.", "codes": ["B597"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Eka Ceramics Co., Ltd.", "codes": ["B598"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Fungdeli Ceramics Co., Ltd.", "codes": ["B599"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Gaofeng Ceramic Manufacturing Co., Ltd.", "codes": ["B600"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Liling Tianxin China Industry Ltd.", "codes": ["B604"], "total": 0, "leis": []}
+{"name": "Hunan Huari Ceramic Industry Co., Ltd", "codes": ["B601"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Huayun Ceramics Factory Co., Ltd", "codes": ["B603"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Provincial Liling Chuhua Ceramic Industrial Co., Ltd.", "codes": ["B605"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Quanxiang Ceramics Corp. Ltd.", "codes": ["B606"], "total": 0, "leis": []}
+{"name": "Hunan Rslee Ceramics Co., Ltd", "codes": ["B607"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Taisun Ceramics Co., Ltd.", "codes": ["B608"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Victor Imp. & Exp. Co., Ltd", "codes": ["B609"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Xianfeng Ceramic Industry Co.,Ltd", "codes": ["B611"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangsu Yixing Fine Pottery Corp., Ltd.", "codes": ["B613"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangsu Gaochun Ceramics Co., Ltd.", "codes": ["B612"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangxi Global Ceramic Co., Ltd.", "codes": ["B614"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangxi Kangshu Porcelain Co.,Ltd.", "codes": ["B615"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jingdezhen F&B Porcelain Co., Ltd.", "codes": ["B616"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jingdezhen Yuanjing Porcelain Industry Co., Ltd.", "codes": ["B617"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiyuan Jukang Xinxing Ceramics Co., Ltd.", "codes": ["B618"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Junior Star Ent's Co., Ltd.", "codes": ["B620"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "K&T Ceramics International Co., Ltd.", "codes": ["B621"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Kam Lee (Xing Guo) Metal and Plastic Fty. Co., Ltd.", "codes": ["B622"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Karpery Industrial Co., Ltd. Hunan China", "codes": ["B623"], "total": 0, "leis": []}
+{"name": "Kilncraft Ceramics Ltd.", "codes": ["B624"], "total": 0, "leis": []}
+{"name": "Lian Jiang Golden Faith Porcelain Co., Ltd.", "codes": ["B625"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling GuanQian Ceramic Manufacture Co., Ltd.", "codes": ["B627"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Gaojia Ceramic Industry Co., Ltd", "codes": ["B626"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Huahui Ceramic Manufacturing Co., Ltd.", "codes": ["B628"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Huawang Ceramics Manufacturing Co., Ltd.", "codes": ["B629"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Jiahua Porcelain Manufacturing Co., Ltd", "codes": ["B630"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Jialong Porcelain Industry Co., Ltd", "codes": ["B631"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Jiaxing Ceramic Industrial Co., Ltd", "codes": ["B632"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Kaiwei Ceramic Co., Ltd.", "codes": ["B633"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Liuxingtan Ceramics Co., Ltd", "codes": ["B635"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Pengxing Ceramic Factory", "codes": ["B637"], "total": 0, "leis": []}
+{"name": "Liling Liangsheng Ceramic Manufacture Co., Ltd.", "codes": ["B634"], "total": null, "leis": [], "error": "retries exhausted"}
+{"name": "Liling Minghui Ceramics Factory", "codes": ["B636"], "total": null, "leis": [], "error": "retries exhausted"}
+{"name": "Liling Santang Ceramics Manufacturing Co., Ltd.", "codes": ["B641"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Quanhu Industries General Company", "codes": ["B638"], "total": null, "leis": [], "error": "retries exhausted"}
+{"name": "Liling Ruixiang Ceramics Industrial Co., Ltd.", "codes": ["B640"], "total": null, "leis": [], "error": "retries exhausted"}
+{"name": "Liling Shenghua Industrial Co., Ltd.", "codes": ["B642"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Tengrui Industrial and Trading Co.,Ltd.", "codes": ["B644"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Top Collection Industrial Co., Ltd", "codes": ["B645"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Spring Ceramic Industry Co., Ltd", "codes": ["B643"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Yonghe Porcelain Factory", "codes": ["B647"], "total": 0, "leis": []}
+{"name": "Liling United Ceramic-Ware Manufacturing Co., Ltd.", "codes": ["B646"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Zhengcai Ceramic Manufacturing Co., Ltd", "codes": ["B649"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Yucha Ceramics Co., Ltd.", "codes": ["B648"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Linyi Jinli Ceramics Co., Ltd.", "codes": ["B650"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Linyi Pengcheng Industry Co., Ltd.", "codes": ["B651"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Linyi Wanqiang Ceramics Co., Ltd.", "codes": ["B652"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Linyi Zhaogang Ceramics Co., Ltd.", "codes": ["B653"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liveon Industrial Co., Ltd.", "codes": ["B654"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Long Da Bone China Co., Ltd.", "codes": ["B655"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Meizhou Lianshunchang Trading Co., Ltd.", "codes": ["B657"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Meizhou Xinma Ceramics Co., Ltd.", "codes": ["B658"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Meizhou Yuanfeng Ceramic Industry Co., Ltd.", "codes": ["B659"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Photo USA Electronic Graphic Inc.", "codes": ["B662"], "total": 0, "leis": []}
+{"name": "Meizhou Zhong Guang Industrial Co., Ltd.", "codes": ["B660"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Miracle Dynasty Fine Bone China (Shanghai) Co., Ltd.", "codes": ["B661"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Quanzhou Allen Light Industry Co., Ltd.", "codes": ["B663"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Quanzhou Chuangli Craft Co., Ltd.", "codes": ["B664"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Quanzhou Haofu Gifts Co., Ltd.", "codes": ["B666"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Quanzhou Dehua Fangsheng Arts Co., Ltd.", "codes": ["B665"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Quanzhou Hongsheng Group Corporation", "codes": ["B667"], "total": 0, "leis": []}
+{"name": "Quanzhou Kunda Gifts Co., Ltd.", "codes": ["B669"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Quanzhou Yongchun Shengyi Ceramics Co., Ltd.", "codes": ["B670"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Quanzhou Jianwen Craft Co., Ltd.", "codes": ["B668"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Raoping Bright Future Porcelain Factory (\"RBF\")", "codes": ["B671"], "total": 0, "leis": []}
+{"name": "Raoping Sanrao Yicheng Porcelain Factory", "codes": ["B672"], "total": 0, "leis": []}
+{"name": "Raoping Suifeng Ceramics and Glass Factory", "codes": ["B674"], "total": 0, "leis": []}
+{"name": "Raoping Sanyi Industrial Co., Ltd.", "codes": ["B673"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Raoping Xinfeng Yangda Colour Porcelain FTY", "codes": ["B675"], "total": 0, "leis": []}
+{"name": "Red Star Ceramics Limited", "codes": ["B676"], "total": 0, "leis": []}
+{"name": "Shandong Futai Ceramics Co., Ltd.", "codes": ["B679"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Rong Lin Wah Industrial (Shenzhen) Co., Ltd.", "codes": ["B677"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shandong Gaode Hongye Ceramics Co., Ltd.", "codes": ["B680"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shandong Kunlun Ceramic Co., Ltd.", "codes": ["B681"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shantou Ceramics Industry Supply & Marketing Corp.", "codes": ["B683"], "total": 0, "leis": []}
+{"name": "Shandong Zhaoding Porcelain Co., Ltd.", "codes": ["B682"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Bright Future Industry Co., Ltd. (\"SBF\")", "codes": ["B686"], "total": 0, "leis": []}
+{"name": "Sheng Hua Ceramics Co., Ltd.", "codes": ["B684"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Baoshengfeng Imp. & Exp. Co., Ltd.", "codes": ["B685"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Ehome Enterprise Ltd", "codes": ["B688"], "total": 0, "leis": []}
+{"name": "Shenzhen Full Amass Ind. Dev. Co. Ltd", "codes": ["B691"], "total": 0, "leis": []}
+{"name": "Shenzhen Ever Nice Industry Co., Ltd.", "codes": ["B689"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Fuliyuan Porcelain Co., Ltd.", "codes": ["B690"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Gottawa Industrial Ltd.", "codes": ["B694"], "total": 0, "leis": []}
+{"name": "Shenzhen Hua Mei Industry Development Ltd", "codes": ["B696"], "total": 0, "leis": []}
+{"name": "Shenzhen Hiker Housewares Ltd.", "codes": ["B695"], "total": 0, "leis": []}
+{"name": "Shenzhen Mingsheng Ceramic Ltd.", "codes": ["B697"], "total": 0, "leis": []}
+{"name": "Shenzhen Senyi Porcelain Industry Co. Ltd.", "codes": ["B698"], "total": 0, "leis": []}
+{"name": "Shenzhen Topchoice Industries Limited", "codes": ["B701"], "total": 0, "leis": []}
+{"name": "Shenzhen Tao Hui Industrial Co., Ltd.", "codes": ["B700"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen SMF Investment Co., Ltd", "codes": ["B699"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Universal Industrial Co., Ltd.", "codes": ["B703"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Trueland Industrial Co., Ltd.", "codes": ["B702"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Zhan Peng Xiang Industrial Co., Ltd.", "codes": ["B704"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shijiazhuang Kuangqu Huakang Porcelain Co., Ltd.", "codes": ["B705"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shun Sheng Da Group Co., Ltd. Quanzhou Fujian", "codes": ["B706"], "total": 0, "leis": []}
+{"name": "Stechcol Ceramic Crafts Development (Shenzhen) Co., Ltd.", "codes": ["B707"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Taiyu Ceramic Co., Ltd. Liling Hunan China", "codes": ["B708"], "total": 0, "leis": []}
+{"name": "Tangshan Beifangcidu Ceramic Group Co., Ltd.", "codes": ["B709"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Boyu Osseous Ceramic Co., Ltd.", "codes": ["B710"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Chinawares Trading Co., Ltd", "codes": ["B711"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Golden Ceramic Co., Ltd.", "codes": ["B713"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Hengrui Porcelain Industry Co., Ltd.", "codes": ["B715"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Haigelei Fine Bone Porcelain Co., Ltd.", "codes": ["B714"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Huamei Porcelain Co., Ltd.", "codes": ["B716"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Huaxincheng Ceramic Products Co., Ltd.", "codes": ["B717"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Huyuan Bone China Co., Ltd.", "codes": ["B718"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Imperial-Hero Ceramics Co., Ltd.", "codes": ["B719"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Jinfangyuan Bone China Manufacturing Co., Ltd.", "codes": ["B720"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Keyhandle Ceramic Co., Ltd.", "codes": ["B721"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Longchang Ceramics Co., Ltd.", "codes": ["B722"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Masterwell Ceramic Co., Ltd.", "codes": ["B723"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Shiyu Commerce Co., Ltd.", "codes": ["B725"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tao Yuan Porcelain Factory", "codes": ["B728"], "total": 0, "leis": []}
+{"name": "Tangshan Yida Industrial Corp.", "codes": ["B727"], "total": 0, "leis": []}
+{"name": "Tangshan Xueyan Industrial Co., Ltd.", "codes": ["B726"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Teammann Co., Ltd.", "codes": ["B729"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "The China & Hong Kong Resources Co., Ltd.", "codes": ["B730"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Topking Industry (China) Ltd.", "codes": ["B733"], "total": 0, "leis": []}
+{"name": "Tienshan (Handan) Tableware Co., Ltd. (\"Tienshan\")", "codes": ["B732"], "total": 0, "leis": []}
+{"name": "The Great Wall of Culture Group Holding Co., Ltd Guangdong", "codes": ["B731"], "total": 0, "leis": []}
+{"name": "Xiamen Acrobat Splendor Ceramics Co., Ltd.", "codes": ["B737"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Winpat Industrial Co., Ltd.", "codes": ["B736"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Weijian Ceramic Industrial Co., Ltd.", "codes": ["B734"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Weiye Ceramics Co., Ltd.", "codes": ["B735"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Xiangqiang Ceramic Manufacturing Co., Ltd. Liling City Hunan", "codes": ["B739"], "total": 0, "leis": []}
+{"name": "Xiamen Johnchina Fine Polishing Tech Co., Ltd.", "codes": ["B738"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Xin Xing Xian XinJiang Pottery Co., Ltd.", "codes": ["B740"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yangjiang Shi Ba Zi Kitchen Ware Manufacturing Co., Ltd.", "codes": ["B743"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Xinhua County Huayang Porcelain Co., Ltd.", "codes": ["B741"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yiyang Red Star Ceramics Ltd.", "codes": ["B746"], "total": 0, "leis": []}
+{"name": "Yanling Hongyi Import N Export Trade Co., Ltd.", "codes": ["B744"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ying-Hai (Shenzhen) Industry Dev. Co., Ltd.", "codes": ["B745"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "China Yong Feng Yuan Co., Ltd.", "codes": ["B747"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yongchun Dahui Crafts Co., Ltd.", "codes": ["B748"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yu Yuan Ceramics Co., Ltd.", "codes": ["B749"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhangjiakou Xuanhua Yici Ceramics Co., Ltd. (\"Xuanhua Yici\")", "codes": ["B754"], "total": 0, "leis": []}
+{"name": "Yuzhou City Kongjia Porcelain Co., Ltd.", "codes": ["B750"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zeal Ceramics Development Co., Ltd, Shenzhen, China", "codes": ["B753"], "total": 136142, "leis": ["5299002GO2K7P7BI1D72", "549300XTJHD3VSA6QH45", "549300TFZD3JXLONQG91", "549300WQ4M8JM6R1BC90", "9845005CDBOACC1ND010"]}
+{"name": "Zhejiang Nansong Ceramics Co., Ltd.", "codes": ["B755"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zibo CAC Chinaware Co., Ltd.", "codes": ["B757"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zibo Boshan Shantou Ceramic Factory", "codes": ["B756"], "total": 0, "leis": []}
+{"name": "Zibo GaoDe Ceramic Technology & Development Co., Ltd.", "codes": ["B760"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zibo Fortune Light Industrial Products Co., Ltd.", "codes": ["B758"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zibo Hongda Ceramics Co., Ltd.", "codes": ["B761"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zibo Kunyang Ceramic Corporation Limited", "codes": ["B763"], "total": 0, "leis": []}
+{"name": "Zibo Jinxin Light Industrial Products Co., Ltd.", "codes": ["B762"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Liling Xinyi Ceramics Industry Ltd.", "codes": ["B957"], "total": 0, "leis": []}
+{"name": "Jing He Ceramics Co., Ltd", "codes": ["B959"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Huamao Ceramics Co., Ltd", "codes": ["C303"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Gemmi (Shantou) Industrial Co., Ltd.", "codes": ["B958"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Jiawei Ceramics Co., Ltd", "codes": ["C304"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fujian Dehua Sanfeng Ceramics Co. Ltd", "codes": ["C485"], "total": 0, "leis": []}
+{"name": "Fujian Dehua New Qili Arts Co., Ltd", "codes": ["C305"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Quanzhou Dehua Hengfeng Ceramics Co., Ltd", "codes": ["C306"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hunan Huazhi Ceramic Co., Ltd Hunan Huazhi Ceramic Co., Ltd", "codes": ["C550"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Huatai Ceramics Industry Limited, Hunan, China and Kerun Ceramics Manufactory Ltd", "codes": ["C551"], "total": 0, "leis": []}
+{"name": "Aperam Inox América do Sul S.A.", "codes": ["C211"], "total": 1, "leis": ["254900BDFLE9RNBEOH87"]}
+{"name": "ArcelorMittal Brasil S.A.", "codes": ["C210"], "total": 1, "leis": ["254900E2YMXPCTXFQV64"]}
+{"name": "Usinas Siderúrgicas de Minas Gerais S.A. (USIMINAS)", "codes": ["C213"], "total": 0, "leis": []}
+{"name": "Companhia Siderúrgica Nacional", "codes": ["C212"], "total": 2, "leis": ["529900K40TEND42S0T46", "25490002137K4IDAC890"]}
+{"name": "Gerdau Açominas S.A.", "codes": ["C214"], "total": 0, "leis": []}
+{"name": "Jiangyin Xingcheng Special Steel Works Co., Ltd", "codes": ["C147"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Angang Steel Company Limited", "codes": ["B314", "C150"], "total": 0, "leis": []}
+{"name": "Inner Mongolia Baotou Steel Union Co.,Ltd", "codes": ["C151"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wuhan Iron and Steel Co., Ltd", "codes": ["C156"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Bengang Steel Plates Co., Ltd", "codes": ["C157"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hesteel Co., Ltd. Tangshan Branch", "codes": ["C159"], "total": 0, "leis": []}
+{"name": "Handan Iron & Steel Group Han-Bao Co., Ltd", "codes": ["C158"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hesteel Co., Ltd. Chengde Branch", "codes": ["C160"], "total": 0, "leis": []}
+{"name": "Zhangjiagang Hongchang Plate Co., Ltd", "codes": ["C161"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shanxi Taigang Stainless Steel Co., Ltd", "codes": ["C163"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shougang Jingtang United Iron & Steel Co., Ltd", "codes": ["C164"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhangjiagang GTA Plate Co., Ltd", "codes": ["C162"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Maanshan Iron & Steel Co., Ltd", "codes": ["C165"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Rizhao Baohua New Material Co., Ltd", "codes": ["C167"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Rizhao Steel Wire Co., Ltd", "codes": ["C166"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Yanshan Iron and Steel Co., Ltd", "codes": ["C168"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Mobarakeh Steel Company", "codes": ["C215"], "total": 0, "leis": []}
+{"name": "Beijing Shougang Co. Ltd., Qian'an Iron & Steel branch", "codes": ["C208"], "total": 0, "leis": []}
+{"name": "Novolipetsk Steel", "codes": ["C216"], "total": 0, "leis": []}
+{"name": "Public Joint Stock Company Magnitogorsk Iron Steel Works (PJSC MMK)", "codes": ["C217"], "total": 0, "leis": []}
+{"name": "PAO Severstal", "codes": ["C218"], "total": 0, "leis": []}
+{"name": "Nanjing Iron and Steel Co., Ltd.", "codes": ["C143"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Minmetals Yingkou Medium Plate Co., Ltd", "codes": ["C144"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wuyang Iron and Steel Co., Ltd and Wuyang New Heavy & Wide Steel Plate Co., Ltd", "codes": ["C145"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhangjiagang Shajing Heavy Plate Co., Ltd.", "codes": ["C146"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Xinyu Iron & Steel Co.,Ltd", "codes": ["C148"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shandong Iron & Steel Co., Ltd, Jinan Company", "codes": ["C149"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Nanyang Hanye Special Steel Co., Ltd", "codes": ["C152"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangjsu Tiangong Tools Company Limited", "codes": ["C155"], "total": 0, "leis": []}
+{"name": "Laiwu Steel Yinshan Section Co., Ltd", "codes": ["C154"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Qinhuangdao Shouqin Metal Materials Co., Ltd", "codes": ["C153"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hesteel Co., Ltd. Handan Branch", "codes": ["C227"], "total": 0, "leis": []}
+{"name": "Shougang Group (Including: Shougang Jingtang United Iron & Steel Co., Ltd, Shou Gang Casey Steel Co., Ltd., Shougang Holding Trade (Hong Kong) Limited, China Shougang International Trade & Engineering Corporation)", "codes": ["8A59"], "total": 133404, "leis": ["549300E3P2I9J35Y8180", "894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58"]}
+{"name": "Zhangjiagang Yangtze River Cold Rolled Sheet Co., Ltd.", "codes": ["C112"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tangshan Iron & Steel Group High Strength Automotive Strip Co., Ltd.", "codes": ["C228"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Maanshan Iron & Steel Co., Ltd (Maanshan, Anhui)", "codes": ["C312"], "total": 3, "leis": ["529900KVP32G8EGV8K64", "529900UGCN9D11VHIL29", "529900HS6X8TTV0FHV63"]}
+{"name": "Beijing Shougang Cold Rolling Co., Ltd.", "codes": ["C229"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhangjiagang Shagang Dongshin Galvanised Steel Sheet Co., Ltd.", "codes": ["C230"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Angang Steel Company Limited (Anshan, Liaoning)", "codes": ["C313"], "total": 1, "leis": ["529900XH7XJQVXFXI109"]}
+{"name": "TKAS Auto Steel Company Ltd (Dalian, Liaoning)", "codes": ["C314"], "total": 1, "leis": ["529900XH7XJQVXFXI109"]}
+{"name": "Bengang Steel Plates Co., Ltd (Benxi, Liaoning)", "codes": ["C316"], "total": 1, "leis": ["529900XH7XJQVXFXI109"]}
+{"name": "BX STEEL POSCO Cold Rolled Sheet Co., Ltd (Benxi, Liaoning)", "codes": ["C317"], "total": 1, "leis": ["529900XH7XJQVXFXI109"]}
+{"name": "JiangYin ZongCheng Steel CO., Ltd (Jiangyin, Jiangsu)", "codes": ["C315"], "total": 9, "leis": ["30030070EYI83PWWWR16", "529900UWWTWZ6AKLYD43", "2549003BT1XS3SE3E448", "254900UBG3389KI4UR87", "529900CTEEDCDU005L18"]}
+{"name": "Wuhan Iron & Steel Co., Ltd (Wuhan, Hubei)", "codes": ["C318"], "total": 1, "leis": ["2549006BF7E4760YLU49"]}
+{"name": "Inner Mongolia Baotou Steel Union Co. Ltd (Baotou, Inner Mongolia)", "codes": ["C320"], "total": 2, "leis": ["529900OW9OHPX81B0T69", "549300BZ0PCWMUUL3V15"]}
+{"name": "Hunan Valin Liangang Steel Sheet Co., Ltd (Loudi, Hunan)", "codes": ["C321"], "total": 0, "leis": []}
+{"name": "Shandong Kerui Steel Plate Co., Ltd (Binzhou, Shandong)", "codes": ["C319"], "total": 11, "leis": ["549300S3F12BHOKLKJ06", "875500UI0NE7JBJHD081", "2549006XBJF48KKSXW04", "5299003RTCTK7FPHC208", "9845008E07479D7E2G19"]}
+{"name": "Shandong Huifu Color Steel Co., Ltd (Linyi, Shadong)", "codes": ["C322"], "total": 0, "leis": []}
+{"name": "Fujian Kaijing Greentech Material Co., Ltd (Longhai, Fujian)", "codes": ["C323"], "total": 1, "leis": ["984500B88052BMF1FC18"]}
+{"name": "Baoshan Iron & Steel Co., Ltd (Shanghai)", "codes": ["C324"], "total": 1, "leis": ["549300QBOC2TMY8NTU66"]}
+{"name": "Baosteel Zhanjiang Iron & Steel Co., Ltd (Zhanjiang, Guandong)", "codes": ["C325"], "total": 1, "leis": ["815600E28E22953F0843"]}
+{"name": "Rizhao Baohua New Materials Co., Ltd (Rizhao, Shandong)", "codes": ["C327"], "total": 11, "leis": ["549300S3F12BHOKLKJ06", "875500UI0NE7JBJHD081", "2549006XBJF48KKSXW04", "5299003RTCTK7FPHC208", "9845008E07479D7E2G19"]}
+{"name": "Union Steel China", "codes": ["B311"], "total": 0, "leis": []}
+{"name": "Jiangsu Gangzheng Steel Sheet Science and Technology Co., Ltd (Nantong, Jiangsu)", "codes": ["C328"], "total": 9, "leis": ["30030070EYI83PWWWR16", "529900UWWTWZ6AKLYD43", "2549003BT1XS3SE3E448", "254900UBG3389KI4UR87", "529900CTEEDCDU005L18"]}
+{"name": "Yieh Phui (China) Technomaterial Co. (Changshu, Jiangsu)", "codes": ["C326"], "total": 9, "leis": ["30030070EYI83PWWWR16", "529900UWWTWZ6AKLYD43", "2549003BT1XS3SE3E448", "254900UBG3389KI4UR87", "529900CTEEDCDU005L18"]}
+{"name": "Zhejiang Huadong Light Steel Building Material Co. Ltd; Hangzhou P.R.P.T. Metal Material Company Ltd", "codes": ["B313"], "total": 0, "leis": []}
+{"name": "Baoshan Iron & Steel Co. Ltd", "codes": ["B316"], "total": 0, "leis": []}
+{"name": "Anyang Iron Steel Co. Ltd", "codes": ["B315"], "total": 0, "leis": []}
+{"name": "Zhangjiagang Panhua Steel Strip Co., Ltd.; Chongqing Wanda Steel Strip Co., Ltd.; Zhangjiagang Free Trade Zone Jiaxinda International Trade Co., Ltd.", "codes": ["B312"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Baoutou City Jialong Metal Works Co. Ltd.", "codes": ["B317"], "total": 0, "leis": []}
+{"name": "Changshu Everbright Material Technology Co.Ltd.", "codes": ["B318"], "total": 0, "leis": []}
+{"name": "Changzhou Changsong Metal Composite Material Co.Ltd.", "codes": ["B319"], "total": 0, "leis": []}
+{"name": "Cibao Modern Steel Sheet Jiangsu Co Ltd.", "codes": ["B320"], "total": 0, "leis": []}
+{"name": "Inner Mongolia Baotou Steel Union Co.Ltd.", "codes": ["B321"], "total": 0, "leis": []}
+{"name": "Jiangyin Zhongjiang Prepainted Steel Mfg Co.Ltd.", "codes": ["B323"], "total": 0, "leis": []}
+{"name": "Jiangyin Ninesky Technology Co.Ltd.", "codes": ["B322"], "total": 0, "leis": []}
+{"name": "Jigang Group Co., Ltd.", "codes": ["B324"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Maanshan Iron&Steel Company Limited", "codes": ["B325"], "total": 0, "leis": []}
+{"name": "Qingdao Hangang Color Coated Sheet Co. Ltd.", "codes": ["B326"], "total": 0, "leis": []}
+{"name": "Shandong Guanzhou Co. Ltd.", "codes": ["B327"], "total": 0, "leis": []}
+{"name": "Shenzen Sino Master Steel Sheet Co.Ltd.", "codes": ["B328"], "total": 0, "leis": []}
+{"name": "Tangshan Iron And Steel Group Co.Ltd.", "codes": ["B329"], "total": 0, "leis": []}
+{"name": "Tianjin Xinyu Color Plate Co.Ltd.", "codes": ["B330"], "total": 0, "leis": []}
+{"name": "Wuhan Iron And Steel Company Limited", "codes": ["B331"], "total": 0, "leis": []}
+{"name": "Wuxi Zhongcai New Materials Co.Ltd.", "codes": ["B332"], "total": 0, "leis": []}
+{"name": "Xinyu Iron And Steel Co.Ltd.", "codes": ["B333"], "total": 0, "leis": []}
+{"name": "Valin Group", "codes": ["A930"], "total": 0, "leis": []}
+{"name": "Zhejiang Tiannu Color Steel Co. Ltd.", "codes": ["B334"], "total": 0, "leis": []}
+{"name": "Jiangyin Xicheng Steel Co., Ltd., Jiangyin", "codes": ["C060"], "total": 133404, "leis": ["3358006HUL3AX9LTY824", "894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58"]}
+{"name": "Jiangsu Lianfeng Industrial Co., Ltd., Zhangjiagang", "codes": ["C063"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangyin Ruihe Metal Products Co., Ltd.,Jiangyin", "codes": ["C061"], "total": 133404, "leis": ["3358006HUL3AX9LTY824", "894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58"]}
+{"name": "Jiangsu Yonggang Group Co., Ltd., Zhangjiagang", "codes": ["C062"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhangjiagang Hongchang High Wires Co., Ltd., Zhangjiagang", "codes": ["C064"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Goods which do not fall within the goods description are excluded from the measure. Excluded goods: line pipe of a kind used for oil or gas pipelines casing and tubing of a kind used in drilling for oil or gas precision tubes tubes and pipes with attached fittings suitable for conducting gases or liquids for use in civil aircraft", "codes": ["8A89"], "total": 0, "leis": []}
+{"name": "Not high fatigue performance steel concrete reinforcement bar (rebar).", "codes": ["8W01"], "total": 0, "leis": []}
+{"name": "Zhangjiagang Shatai Steel Co., Ltd., Zhangjiagang", "codes": ["C065"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "All overseas exporters (Belarus)", "codes": ["8A90"], "total": 0, "leis": []}
+{"name": "All overseas exporters (China)", "codes": ["8A91"], "total": 0, "leis": []}
+{"name": "Remer Maroc SARL, Zone Industrielle, Tranche 2, Lot 10, Settat - MA", "codes": ["A567"], "total": 7, "leis": ["254900H99KFUU3PAKD53", "254900KK54FXQDKG4W23", "2138008XV1K2QC1MLE02", "5493004DMTX64IR2N203", "549300JODF18P2RBRX87"]}
+{"name": "SEIL Wire and Cable, 47-4, Soju-Dong, Yangsan-Si, Kyungsangnamdo", "codes": ["A994"], "total": 0, "leis": []}
+{"name": "Bosung Wire Rope Co. Ltd, 568 Yongdeok-ri, Hallim-myeon, Gimhae-si, Gyeongsangnam-do, 621-872 Chung Woo Rope Co., Ltd 1682-4, Songjung-Dong, Gangseo-Gu, Busan CS Co., Ltd, 31-102, Junam maeul 2-gil, Yangsan, Gyeongsangnam-do Cosmo Wire Ltd, 4-10, Koyeon-Ri, Woong Chon-Myon Ulju-Kun, Ulsan Dae Heung Industrial Co., Ltd, 185 Pyunglim - Ri, Daesan-Myun, Haman - Gun, Gyungnam DSR Wire Corp., 291, Seonpyong-Ri, Seo-Myon, Suncheon-City, Jeonnam Kiswire Ltd, 37, Gurak-Ro, 141 Beon-Gil, Suyeong-Gu, Busan, Korea 48212 Manho Rope & Wire Ltd, Dongho Bldg, 85-2 4 Street Joongang- Dong, Jong-gu, Busan Shin Han Rope Co., Ltd, 715-8, Gojan-Dong, Namdong-gu, Incheon Ssang Yong Cable Mfg. Co., Ltd, 1559-4 Song-Jeong Dong, Gang-Seo Gu, Busan Young Heung Iron & Steel Co., Ltd, 71-1 Sin-Chon Dong, Changwon City, Gyungnam", "codes": ["A969"], "total": 133736, "leis": ["3912001CN1MLY8Q78W06", "2549004455SHSW372E02", "254900FNIHH80YGNOA80", "254900AZNZG3U1TNSN78", "54930094HTRXFLXUBV36"]}
+{"name": "Line Metal Co. Ltd, 1259 Boncho-ri, Daeji-Myeon, Changnyeong-gun, Gyeongnam", "codes": ["B926"], "total": 0, "leis": []}
+{"name": "Goodwire MFG. Co. Ltd, 984-23, Maegok-Dong, Yangsan-City, Kyungnam", "codes": ["B955"], "total": 1, "leis": ["549300JHDH1UEDYT0128"]}
+{"name": "Milenyum Metal Diş Ticaret Ve Sanayi A.Ş. 3M Plastik Ve Metal Diş Ticaret Ve Sanayi A.Ş.", "codes": ["8B04"], "total": 0, "leis": []}
+{"name": "Daechang Steel Co., Ltd, 1213, Aam-daero, Namdong-gu, Incheon", "codes": ["C057"], "total": 133409, "leis": ["335800Q5GN7U9Q92YF31", "213800LCAYAQNUOEZT42", "21380036BUX27QVKM864", "3358008MEXC1BE3K2758", "2549004LZ21PXTEQ6J90"]}
+{"name": "All other overseas exporters (residual rate)", "codes": ["8B05"], "total": 0, "leis": []}
+{"name": "Botou City Wangwu Town Tianlong Casting Factory", "codes": ["C221"], "total": 0, "leis": []}
+{"name": "Botou Lisheng Casting Industry Co., Ltd.", "codes": ["C222"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Fengtai (Handan) Alloy Casting Co., Ltd.", "codes": ["C223"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hong Guang Handan Cast Foundry Co., Ltd.", "codes": ["C224"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shijiazhuang Transun Metal Products Co., Ltd.", "codes": ["C225"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Baoding City Maikesaier Casting Ltd", "codes": ["C226"], "total": 0, "leis": []}
+{"name": "Baoding GB Metal Products Co., Ltd", "codes": ["C232"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Baoding Hualong Casting Co., Ltd", "codes": ["C233"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Baoding Shuanghu Casting Co., Ltd", "codes": ["C234"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Bo Tou Chenfeng Casting Co., Ltd", "codes": ["C235"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou City Simencun Town Bai Fo Tang Casting Factory", "codes": ["C238"], "total": 0, "leis": []}
+{"name": "Botou City Minghang Casting Co., Ltd", "codes": ["C236"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou City Qinghong Foundry Co., Ltd. and the related company Cangzhou Qinghong Foundry Co., Ltd", "codes": ["C237"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou Dongli Foundry Co., Ltd", "codes": ["C239"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou GuangTai Precision Casting Factory", "codes": ["C240"], "total": 0, "leis": []}
+{"name": "Botou Mancheng Foundry Co., Ltd", "codes": ["C241"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou Okai Foundry Co., Ltd", "codes": ["C242"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou TongYang Casting Factory", "codes": ["C244"], "total": 0, "leis": []}
+{"name": "Botou Sanjiang Casting Co., Ltd", "codes": ["C243"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou Weili Precision Casting Co., Ltd", "codes": ["C245"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou Xinrong Foundry Co., Ltd", "codes": ["C246"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Botou Zhengxin Foundry Co., Ltd", "codes": ["C247"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Cangzhou Hongyuan Machinery & Foundry Co., Ltd", "codes": ["C248"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Cangzhou Yadite Casting Machinery Co., Ltd", "codes": ["C249"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changsha Jinlong Foundry Industry Co., Ltd", "codes": ["C250"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changyi City ChangZhan Casting Co., Ltd", "codes": ["C251"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dingxiang Sitong Forging and Casting Industrial", "codes": ["C253"], "total": 0, "leis": []}
+{"name": "China National Minerals Co., Ltd", "codes": ["C252"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dingzhou Dongyu Foundry Co., Ltd", "codes": ["C254"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Handan City Jinzhu Foundry Co., Ltd", "codes": ["C255"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Handan Haolin Casting Co., Ltd", "codes": ["C256"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Handan Qunshan Foundry Co., Ltd.", "codes": ["C257"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Handan Yanyuan Machinery Foundry Co., Ltd", "codes": ["C258"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Handan Yuanyang Foundry Co.,Ltd", "codes": ["C259"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hebei Cheng'An Babel Casting Co., Ltd", "codes": ["C261"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Handan Zhangshui Pump Manufacturing Co., Ltd", "codes": ["C260"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hebei Feixiang East Foundry Products Co., Ltd", "codes": ["C262"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hebei Jinghua Casting Co., Ltd", "codes": ["C263"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hebei Shunda Foundry Co., Ltd", "codes": ["C264"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hebei Tengfeng Metal Products Co., Ltd", "codes": ["C265"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hebei Zhonghe Foundry Co., Ltd", "codes": ["C266"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Heping Cast Co., Ltd. Yi County", "codes": ["C268"], "total": 0, "leis": []}
+{"name": "Hengtong Valve Co.,LTD", "codes": ["C267"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiaocheng County Honglong Machinery Manufacturing Co., Ltd", "codes": ["C269"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiaocheng County Xinlei Machinery Manufacturing Co., Ltd", "codes": ["C270"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiaocheng County Xinxing Casting Co., Ltd", "codes": ["C271"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinan Laiwu Haitian Machinery Manufacturing Co., Ltd", "codes": ["C272"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Lianyungang Ganyu Xingda Casting Foundry", "codes": ["C274"], "total": 0, "leis": []}
+{"name": "Laiwu Xinlong Weiye Foundry Co., Ltd", "codes": ["C273"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Lingchuan County Rainbow Casting Co., Ltd", "codes": ["C275"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Lingshou County Boyuan Foundry Co., Ltd", "codes": ["C276"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Pingyao County Master Casting Co., Ltd", "codes": ["C277"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Qingdao Jiatailong Industrial Co., Ltd", "codes": ["C278"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Qingdao Jinfengtaike Machinery Co., Ltd", "codes": ["C279"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Qingdao Qitao Casting Co., Ltd", "codes": ["C280"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Qingdao Shinshu Casting Co., Ltd", "codes": ["C281"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Qingyuanxian Yueda Fountry Co., Ltd", "codes": ["C282"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Rockhan Technology Co., Ltd", "codes": ["C283"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shahe City Fangyuan Casting Co., Ltd", "codes": ["C284"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shandong Hongma Engineering Machinery Co., Ltd", "codes": ["C285"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shandong Lulong Group Co., Ltd", "codes": ["C286"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shanxi Associated Industrial Co., Ltd", "codes": ["C287"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shanxi Jiaocheng Xinglong Casting Co., Ltd", "codes": ["C288"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shanxi Solid Industrial Co., Ltd", "codes": ["C289"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shanxi Yuansheng Casting and Forging Industrial Co., Ltd", "codes": ["C290"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tianjin Jinghai Chaoyue Industrial and Commercial Co., Ltd", "codes": ["C294"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tianjin Yu Xing Da Casting Co., Ltd", "codes": ["C295"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wangdu Junrong Foundry Co., Limited", "codes": ["C296"], "total": 352424, "leis": ["315700P5LGGE3VIZPF68", "529900VMVTB7UZHE0C39", "549300DJ4X7ICV3THW75", "9845005Y70UV51JCC982", "984500E7F3L6EA689M94"]}
+{"name": "Weifang Nuolong Machinery Co., Ltd", "codes": ["C297"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shandong Heshengda Machinery Technology Co., Ltd and Qingdao Everbright Machinery Co., Ltd", "codes": ["C298"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Weifang Weikai Casting Co., Ltd", "codes": ["C299"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wen Shui Hengli Nature of the Company", "codes": ["C300"], "total": 0, "leis": []}
+{"name": "Wuhan RedStar Agro-Livestock Machinery Co. Ltd", "codes": ["C301"], "total": 0, "leis": []}
+{"name": "Zibo Joy's Metal Co., Ltd", "codes": ["C302"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shanxi Ascent Industrial Co., Ltd.", "codes": ["C310"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Press Metal International Group and equal to or below 14kg/m", "codes": ["8A00"], "total": 0, "leis": []}
+{"name": "Shandong Nanshan and equal to or below 14kg/m", "codes": ["8A01"], "total": 0, "leis": []}
+{"name": "Haomei Group and equal to or below 14kg/m", "codes": ["8A02"], "total": 0, "leis": []}
+{"name": "NON-SAMPLED CO-OPERATING EXPORTERS and equal to or below 14kg/m", "codes": ["8A03"], "total": 0, "leis": []}
+{"name": "The following goods imported from China are exempt from the anti-dumping duties: Aluminium structures or parts of structures, sub-assemblies, products that are imported in “finished goods kit”, and welded tubes and pipes, aluminium extrusions with a maximum cross-sectional dimension of greater than 310mm and/or with a weight greater than 14 kg/m", "codes": ["8A04"], "total": 1, "leis": ["335800LU7DGF6D53LY61"]}
+{"name": "Other and equal to or below 14kg/m", "codes": ["8A99"], "total": 0, "leis": []}
+{"name": "CeDo (Shanghai) Ltd, Shanghai", "codes": ["B299"], "total": 180, "leis": ["969500JCXLSVPI5H4T08", "33580087WHJDS13IEW52", "984500D40XCF390BE218", "9845002FTB0D4QD18D38", "254900SVUQM5JO47WW60"]}
+{"name": "Shaoshan Huanqiu Castings Foundry", "codes": ["C291"], "total": 0, "leis": []}
+{"name": "Ningbo Times Aluminium Foil Technology Co. Ltd, Ningbo", "codes": ["B300"], "total": 12, "leis": ["5299002XHYMCTM6QTM80", "254900RNF05G5SB2IJ62", "9845006CE5ABDC1EZ838", "549300IIJCU1EQKDDP06", "529900VMW406OGJTQ816"]}
+{"name": "Tang County Kaihua Metal Products Co., Ltd", "codes": ["C292"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Favored Commodity Co. Ltd., Yuyao City", "codes": ["B301"], "total": 0, "leis": []}
+{"name": "Able Packaging Co., Ltd, Shanghai", "codes": ["B302"], "total": 133477, "leis": ["549300UIHBJ6UJ7LAT56", "254900NW8X5A21H5UK92", "549300O5ASL5WT6J2S40", "969500JCXLSVPI5H4T08", "529900PKKRRYCQWG2I83"]}
+{"name": "Tangxian Hongyue Machinery Accessory Foundry Co., Ltd", "codes": ["C293"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangzhou Chuanlong Aluminium Foil Product Co. Ltd, Guangzhou", "codes": ["B303"], "total": 14, "leis": ["969500SABDHG23K82X24", "529900QF0FWCK1IJ3X31", "549300C975GTYZ3MZB69", "549300NRK1LHOJPN7C30", "300300833UAV7AQF2147"]}
+{"name": "Ningbo Ashburn Aluminium Foil Products Co. Ltd, Yuyao City", "codes": ["B304"], "total": 0, "leis": []}
+{"name": "Weifang Quanxin Aluminium Foil Co. Ltd, Linqu", "codes": ["B306"], "total": 0, "leis": []}
+{"name": "Shanghai Blue Diamond Aluminium Foil Manufacturing Co. Ltd, Shanghai", "codes": ["B305"], "total": 180, "leis": ["969500JCXLSVPI5H4T08", "33580087WHJDS13IEW52", "984500D40XCF390BE218", "9845002FTB0D4QD18D38", "254900SVUQM5JO47WW60"]}
+{"name": "Zhengzhou Zhuoshi Tech Co. Ltd, Zhengzhou City", "codes": ["B307"], "total": 0, "leis": []}
+{"name": "Zhuozhou Haoyuan Foil Industry Co. Ltd, Zhouzhou City", "codes": ["B308"], "total": 0, "leis": []}
+{"name": "Yuyao Caelurn Aluminium Foil Products Co. Ltd, Yuyao", "codes": ["B310"], "total": 0, "leis": []}
+{"name": "Zibo Hengzhou Aluminium Plastic Packing Material Co. Ltd, Zibo", "codes": ["B309"], "total": 6, "leis": ["815600C6EF626797AC31", "984500DC3D1110E1AC02", "984500F0B0A45064E122", "815600C6777AFCC47414", "9845003BZ68E5RE0CB06"]}
+{"name": "Zhejiang Dingli Machinery Co Ltd", "codes": ["8A62"], "total": 0, "leis": []}
+{"name": "Lingong Heavy Machinery Co Ltd", "codes": ["8A63"], "total": 0, "leis": []}
+{"name": "Sunward Intelligent Equipment Co Ltd", "codes": ["8A65"], "total": 0, "leis": []}
+{"name": "Fronteq (Changzhou) Machinery Co Ltd.", "codes": ["8A64"], "total": 0, "leis": []}
+{"name": "Oshkosh JLG (Tianjin) Equipment Technology Co Ltd (“JLG Tianjin”)", "codes": ["8A66"], "total": 0, "leis": []}
+{"name": "Jiangsu LiuGong Machinery Co Ltd, a PRC producer", "codes": ["8A67"], "total": 0, "leis": []}
+{"name": "Hered (Shandong) Intelligent Technology Co Ltd", "codes": ["8A70"], "total": 0, "leis": []}
+{"name": "Zoomlion Intelligent Access Machinery Co Ltd", "codes": ["8A69"], "total": 0, "leis": []}
+{"name": "Hunan Sinoboom Intelligent Equipment Co Ltd (“Sinoboom”)", "codes": ["8A72"], "total": 0, "leis": []}
+{"name": "XCMG Group, including: &bull; XCMG Fire-Fighting Safety Equipment Co Ltd, the PRC producer &bull; Xuzhou Construction Machinery Group Importer &amp; Export Co Ltd, the associated PRC exporter", "codes": ["8A71"], "total": 1, "leis": ["254900FVR6OAZ0BI5F31"]}
+{"name": "Terex (Changzhou) Machinery Co Ltd (“Terex Changzhou”)", "codes": ["8A68"], "total": 0, "leis": []}
+{"name": "Jinan Juxin Machinery Co Ltd", "codes": ["8A76"], "total": 0, "leis": []}
+{"name": "Haulotte Access Equipment Manufacturing (Changzhou) Co Ltd", "codes": ["8A73"], "total": 0, "leis": []}
+{"name": "Shandong Chufeng Heavy Industry Machinery Co Ltd", "codes": ["8A74"], "total": 0, "leis": []}
+{"name": "Joovoo Industries Inc", "codes": ["8A75"], "total": 0, "leis": []}
+{"name": "Goods which do not fall within the goods description are excluded from the measure * These goods are excluded from the measure. Products classified to a commodity code in this notice that do not fall within the 'goods description' are excluded from this measure. Use the relevant additional code on your import declaration to exclude imports of these products from the anti-dumping duty.", "codes": ["8C02"], "total": 0, "leis": []}
+{"name": "Excavators with an operating weight of below 11.000 kg", "codes": ["8A28"], "total": 0, "leis": []}
+{"name": "Excavators with an operating weight of 80.000 kg and above", "codes": ["8A29"], "total": 0, "leis": []}
+{"name": "Excavators from Sany Group (Sany Heavy Machinery Company Limited and Sany Heavy Machinery Limited). Limited with an operating weight of 11.000 kg and above, but below 80.000 kg.", "codes": ["8A32"], "total": 0, "leis": []}
+{"name": "Excavators from Liugong Group (Liugong Changzhou Machinery Co., Ltd , Liuzhou Liugong Excavator Co., Ltd, Guangxi Liugong Machinery Co., Ltd and Liugong Machinery Hongkong Co.). Limited with an operating weight of 11.000 kg and above, but below 80.000 kg.", "codes": ["8A31"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Excavators from Sunward Intelligent Equipment Co., Ltd with an operating weight of 11.000 kg and above, but below 80.000 kg.", "codes": ["8A34"], "total": 0, "leis": []}
+{"name": "Excavators from Caterpillar Group - Caterpillar SARL (Switzerland) , Caterpillar SARL Singapore Branch, Caterpillar (Xuzhou) Ltd. Limited with an operating weight of 11.000 kg and above, but below 80.000 kg.", "codes": ["8A47"], "total": 0, "leis": []}
+{"name": "Excavators from XCMG Group (XCMG Excavator Machinery Co., Ltd, Xuzhou Construction Machinery Group Imp. & Exp. Co., Ltd, XCMG European Sales and Services GmbH). Limited with an operating weight of 11.000 kg and above, but below 80.000 kg.", "codes": ["8A33"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Excavators from all other overseas exporters with an operating weight of 11.000 kg and above, but below 80.000 kg.", "codes": ["8A35"], "total": 0, "leis": []}
+{"name": "SDG Group: Shenzhen SDG Information Co. Ltd Shenzhen SDGI Optical Network Technologies Co. Ltd", "codes": ["8C31"], "total": 0, "leis": []}
+{"name": "Non sampled, cooperating exporters/producers: Suzhou Furukawa Power Optic Cable Co.,Ltd Shanghai Wanbao Optical Technologies Co. Ltd Ningbo Geyida Cable Technology Co.,Ltd XDK Communication Equipment Huizhou Co., Ltd Jiangsu Fasten Optical Cable Co., Ltd Hengtong Optic-Electric co. Ltd ZheJiang JinYuan WanBao Optical Fiber Co. Ltd FibreHome Telecommunication Technologies Co Lt", "codes": ["8C30"], "total": 0, "leis": []}
+{"name": "Ozone Depleting Substance imported for destruction", "codes": ["4601"], "total": 0, "leis": []}
+{"name": "Ozone Depleting Substance imported not for destruction.", "codes": ["4602"], "total": 0, "leis": []}
+{"name": "Means of transport more than 75 years old", "codes": ["4048"], "total": 0, "leis": []}
+{"name": "Forged aluminium road wheels", "codes": ["8A25"], "total": 0, "leis": []}
+{"name": "Cast aluminium road wheels", "codes": ["8A26"], "total": 0, "leis": []}
+{"name": "Goods not containing Ozone Depleting Substances.", "codes": ["4605"], "total": 0, "leis": []}
+{"name": "Ozone Depleting Substance exported not for destruction.", "codes": ["4604"], "total": 0, "leis": []}
+{"name": "Ozone Depleting Substance exported for destruction.", "codes": ["4603"], "total": 0, "leis": []}
+{"name": "The following goods imported from China are exempt from the anti-dumping and countervailing duties: electrical bicycles that are not foldable.", "codes": ["8100"], "total": 0, "leis": []}
+{"name": "Jinhua Otmar Technology Co Limited, PRC (“Otmar”) 101, Unit 1, Building 16, No 168 Kechang Road, Qiubin Street Wucheng District, Jinhua City, Zhejiang Province, PR China, 321016;", "codes": ["8A10"], "total": 16, "leis": ["549300PWLWDENPYWVI59", "6488581F2VP5V64WXX63", "335800MRPDAA5F3ZJQ63", "549300WM87CJ0PJDP987", "3358007OQXD3ATSNNL63"]}
+{"name": "Jinhua Seno Technology Co Limited, PRC (“Seno”) Unit 2, Building 16, No 168 Kechang Road, Qiubin Street Wucheng District, Jinhua City, Zhejiang Province, PR China, 321016.", "codes": ["8A11"], "total": 1, "leis": ["549300PWLWDENPYWVI59"]}
+{"name": "Bodo Vehicle Group Co., Ltd.", "codes": ["C382"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Giant Electric Vehicle (Kunshan) Co., Ltd", "codes": ["C383"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinhua Vision Industry Co., Ltd and Yongkang Hulong Electric Vehicle Co., Ltd.", "codes": ["C384"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Suzhou Rununion Motivity Co., Ltd.", "codes": ["C385"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Aigeni Technology Co., Ltd.", "codes": ["C388"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Acetrikes Bicycles (Taicang) Co., Ltd", "codes": ["C386"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Active Cycles Co., Ltd.", "codes": ["C387"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Aima Technology Group Co., Ltd..", "codes": ["C389"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Alco Electronics (Dongguan) Limited", "codes": ["C390"], "total": 0, "leis": []}
+{"name": "Beijing Tsinova Technology Co., Ltd.", "codes": ["C391"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changzhou Airwheel Technology Co., Ltd.", "codes": ["C392"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changzhou Bisek Cycle Co., Ltd.", "codes": ["C393"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changzhou Hj Pedal Co., Ltd.", "codes": ["C394"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changzhou Rich Vehicle Technology Co., Ltd.", "codes": ["C395"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changzhou Ristar Cycle Co., Ltd", "codes": ["C396"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changzhou Sobowo Vehicle Co., Ltd.", "codes": ["C397"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changzhou Steamoon Intelligent Technology Co., Ltd.", "codes": ["C398"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Cutting Edge Power Vehicle Int'l TJ Co., Ltd.", "codes": ["C399"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Cycleman E-Vehicle Ltd,. Co.", "codes": ["C400"], "total": 56630, "leis": ["8156008997562A3F0E36", "815600FEF3FF5CDBD991", "81560059EFE38D9DD123", "894500T08MHJKUU6IZ07", "54930042G6LV02M61T92"]}
+{"name": "Dongguan Benling Vehicle Technology Co., Ltd.", "codes": ["C401"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Eco International Elebike Co., Ltd.", "codes": ["C403"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Foshan Lano Bike Co., Ltd.", "codes": ["C405"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Dongguan Honglin Industrial Co., Ltd and Melton Industrial (Dong Guan) Co., Ltd", "codes": ["C402"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Everestt International Industries Ltd.", "codes": ["C404"], "total": 0, "leis": []}
+{"name": "Foshan Zenith Sports Co., Ltd.", "codes": ["C406"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Geoby Advance Technology Co., Ltd.", "codes": ["C407"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Shunde Junhao Science & Technology Development Co., Ltd.", "codes": ["C409"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Guangdong Commercial Trading Imp. & Exp. Corp., Ltd.", "codes": ["C408"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hangzhou TOP Mechanical And Electrical Technology, Co. Ltd.", "codes": ["C413"], "total": 2626, "leis": ["254900LOFGUWPI067K69", "213800696TISFLLQIR25", "984500B589C86ED44P82", "391200V29IQZ99XVCV30", "254900RMOT1KGNE2KW48"]}
+{"name": "Guangzhou Symbol Bicycle Co., Ltd.", "codes": ["C410"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hangzhou Fanzhou Technology Co., Ltd.", "codes": ["C411"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hangzhou Morakot E-Bike Manufacture Co., Ltd.", "codes": ["C412"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangsu Lvneng Electrical Bicycle Technology Co., Ltd.", "codes": ["C416"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangsu Stareyes Bicycle Industrial Co., Ltd.", "codes": ["C417"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Hua Chin Bicycle & Fitness (H.Z.) Co., Ltd.", "codes": ["C414"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiangsu Imi Electric Vehicle Technology Co., Ltd.", "codes": ["C415"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jiaxing Onway Ev Tech Co., Ltd.", "codes": ["C418"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinhua Feirui Vehicle Co., Ltd.", "codes": ["C420"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinhua Jobo Technology Co., Ltd.", "codes": ["C421"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinhua Enjoycare Motive Technology Co., Ltd.", "codes": ["C419"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinhua Suntide Vehicle Co., Ltd.", "codes": ["C422"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Kenstone Metal (Kunshan) Co., Ltd.", "codes": ["C425"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinhua Yifei Electric Science And Technology Co., Ltd.", "codes": ["C423"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinhua Zodin E-Vehicle Co., Ltd", "codes": ["C424"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Kunshan Sevenone Cycle Co., Ltd.", "codes": ["C427"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Komda Industrial (Dongguan) Co., Ltd.", "codes": ["C426"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Nanjing Jincheng Machinery Co., Ltd.", "codes": ["C428"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Nantong Tianyuan Automatic Vehicle Co., Ltd.", "codes": ["C429"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Nanyang Vehicle Co., Ltd.", "codes": ["C432"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Lvkang Vehicle Co., Ltd.", "codes": ["C431"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Bestar Co., Ltd.", "codes": ["C430"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Oner Bike Co., Ltd.", "codes": ["C433"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Pugonying Vehicle Technology Co., Ltd.", "codes": ["C434"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Shenchima Vehicle Industry Co., Ltd.", "codes": ["C436"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Roadsan New Energy Technology Co., Ltd.", "codes": ["C435"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ningbo Zixin Bicycle Industry Co., Ltd.", "codes": ["C437"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Pronordic E-Bikes Limited Company", "codes": ["C438"], "total": 0, "leis": []}
+{"name": "Shandong Eco Friendly Technology Co., Ltd.", "codes": ["C439"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shanghai Promising Int'l Trade & Logistics Co., Ltd.", "codes": ["C440"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen SanDin Cycle Co., Ltd.", "codes": ["C441"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Skyland Sport Tech Co., Ltd.", "codes": ["C444"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Sino Lithium (Suzhou) Electric Technology Co., Ltd.", "codes": ["C443"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Suzhou Dynavolt Intelligent Vehicle Technology Co., Ltd.", "codes": ["C445"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Shenzhen Shenling Car Co., Ltd.", "codes": ["C442"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Taioku Manufacturing (Jiangsu) Co., Ltd.", "codes": ["C448"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tianjin Luodeshengda Bicycle Co., Ltd.", "codes": ["C449"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Suzhou Joydeer E-Bicycle Co., Ltd", "codes": ["C447"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Suzhou Guoxin Group Fengyuan Imp & Exp. Co., Ltd.", "codes": ["C446"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Tianjin Upland Bicycle Co., Ltd.", "codes": ["C450"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Universal Cycle Corporation (Guang Zhou)", "codes": ["C453"], "total": 0, "leis": []}
+{"name": "Easy Electricity Technology Co., Ltd, Tianjin", "codes": ["C451"], "total": 133413, "leis": ["5493009GRL4PEFT89447", "549300EQ7BLR52TUCJ06", "529900V4MOQLJ9REJ070", "254900BOPKWWZTKPNS95", "213800CMGKMX3O727K59"]}
+{"name": "Ubchoice Co., Ltd.", "codes": ["C452"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wettsen Corporation", "codes": ["C454"], "total": 0, "leis": []}
+{"name": "Wuxi Bashan E-Vehicle Co., Ltd.", "codes": ["C455"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wuxi Merry Ebike Co., Ltd.", "codes": ["C456"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wuxi METUO Vehicle Co., Ltd.", "codes": ["C457"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wuxi United Mobility Technology Inc", "codes": ["C459"], "total": 0, "leis": []}
+{"name": "Wuxi Shengda Bicycles Co., Ltd and Wuxi Shengda Vehicle Technology Co.,Ltd", "codes": ["C458"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wuyi Yuema Leisure Articles Co., Ltd.", "codes": ["C461"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Wuyi Simino Industry & Trade Co., Ltd.", "codes": ["C460"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Xiangjin (Tianjin) Cycle Co., Ltd.", "codes": ["C462"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yadea Technology Group Co., Ltd.", "codes": ["C463"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yong Qi (China) Bicycle Industrial Corp", "codes": ["C464"], "total": 0, "leis": []}
+{"name": "Yongkang Aijiu Industry & Trade Co., Ltd.", "codes": ["C465"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yongkang Juxiang Vehicle Co, Ltd.", "codes": ["C466"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yongkang Lohas Vehicle Co., Ltd.", "codes": ["C467"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Yongkang Mars Vehicle Co., Ltd.", "codes": ["C468"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Apollo Motorcycle Manufacturer Co., Ltd.", "codes": ["C469"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Goccia Electric Technology Co., Ltd.", "codes": ["C472"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Enze Vehicle Co., Ltd.", "codes": ["C471"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Baoguilai Vehicle Co., Ltd.", "codes": ["C470"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Jsl Vehicle Co., Ltd.", "codes": ["C473"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Lianmei Industrial Co., Ltd.", "codes": ["C475"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Tuer Vehicle Industry Co., Ltd.", "codes": ["C477"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Luyuan Electric Vehicle Co., Ltd.", "codes": ["C476"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Kaiyi New Material Technology Co., Ltd.", "codes": ["C474"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhongshan Qiangli Electronics Factory", "codes": ["C479"], "total": 0, "leis": []}
+{"name": "Zhejiang Xingyue Vehicle Co., Ltd., Zhejiang Xingyue Overfly Electric Vehicle Co., Ltd. and Zhejiang Xingyue Electric Vehicle Co., Ltd.", "codes": ["C478"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhongxin Power (Tianjin) Bicycle Co., Ltd.", "codes": ["C480"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Changzhou Fujiang Vehicle Co. Ltd", "codes": ["C484"], "total": 0, "leis": []}
+{"name": "Zhejiang Hangpai Electric Vehicle Co. Ltd", "codes": ["C488"], "total": 0, "leis": []}
+{"name": "Suzhou Leisger Vehicle Co., Ltd", "codes": ["C487"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Jinhua Lvbao Vehicles Co., Ltd", "codes": ["C486"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Zhejiang Baoguilai Vehicle Co. Ltd.", "codes": ["B772"], "total": 0, "leis": []}
+{"name": "Giant (China) Co. Ltd.", "codes": ["C329"], "total": 0, "leis": []}
+{"name": "Oyama Technology (Jiangsu) Co., Ltd", "codes": ["B773"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Ideal (Dongguan) Bike Co., Ltd", "codes": ["B774"], "total": 133403, "leis": ["894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47", "254900PN0US5GPLZ4B58", "529900P8NFE1PHKISK50"]}
+{"name": "Smart Tech (Cambodia) Co., Ltd, Tai Seng Bavet Special Economic Zone, National Road No 1, Bavet City, Svay Rieng, KH", "codes": ["C036"], "total": 133583, "leis": ["2549005K8BN9B8Z4J585", "549300F7GPKZLRCUNN03", "969500WMDFOZH2M95Z75", "9845003DDB486DDE5239", "969500N7H38P4FDV7213"]}
+{"name": "A and J (Cambodia) Co., Ltd, Special Economic Zone Tai Seng Bavet, Sangkar Bavet, Krong Baver, Ket Svay Rieng, KH", "codes": ["C035"], "total": 133583, "leis": ["2549005K8BN9B8Z4J585", "549300F7GPKZLRCUNN03", "969500WMDFOZH2M95Z75", "9845003DDB486DDE5239", "969500N7H38P4FDV7213"]}
+{"name": "Procycle Industrial Inc., Hong Chang Compound, Brgy. Lantic, Carmona, Cavite, PH", "codes": ["C038"], "total": 686, "leis": ["984500BBC0I5F3M47357", "9598007FB292U631TW71", "2549003ANN3VVPOZGW61", "959800NF1LWD0VD63871", "959800ANTLN458351X68"]}
+{"name": "Speedtech Industrial Co., Ltd, Manhattan (Svay Rieng) Special Economic Zone, National Road No 1, Sangkat Bavet, Krong Bavet, Svay Rieng Province, Cambodia Bestway Industrial Co., Ltd, Manhattan (Svay Rieng) Special Economic Zone, National Road No 1, Sangkat Bavet, Krong Bavet, Svay Rieng Province, Cambodia", "codes": ["C037"], "total": 133405, "leis": ["25490014ZYYDSY6IPW93", "815600A0F0C505498E88", "894500TSKNE8XM67HY36", "549300FU52NHVVCJJ308", "529900CZR9P4O40QRJ47"]}
+{"name": "P.T. Insera Sena, 393 Jawa Street, Buduran, Sidoarjo 61252, Indonesia", "codes": ["B765"], "total": 610, "leis": ["9845007E156E73F1B262", "9845000B07K7C2D2F413", "9845007ADB6A79DD5Y62", "9845009D5BQ54EDDF867", "529900LOUL6KLXJ0RU24"]}
+{"name": "PT Wijaya Indonesia Makmur Bicycle Industries (Wim Cycle), Raya Bambe KM. 20, Driyorejo, Gresik 61177, Jawa Timur, Indonesia", "codes": ["B766"], "total": 611, "leis": ["529900DGM06AC0584V78", "9845007E156E73F1B262", "9845000B07K7C2D2F413", "9845007ADB6A79DD5Y62", "9845009D5BQ54EDDF867"]}
+{"name": "Asiabike Industrial Limited, No 114, Galle Road, Henamulla, Panadura, Sri Lanka", "codes": ["B768"], "total": 14, "leis": ["875500L5CAVCALJMN721", "254900CGEWK3KHKL2653", "25490091JEH4A9XJJW68", "254900NDASIW2A7V3J06", "213800FJCP83HH8L7Z79"]}
+{"name": "P.T. Terang Dunia Internusa, (United Bike), Jl. Anggrek Neli Murni 114 Slipi, 11480, Jakarta Barat, Indonesia", "codes": ["B767"], "total": 610, "leis": ["5493001Q2ITOUBCYI393", "9845007E156E73F1B262", "9845000B07K7C2D2F413", "9845007ADB6A79DD5Y62", "9845009D5BQ54EDDF867"]}
+{"name": "Samson Bikes (Pvt) Ltd., No 110, Kumaran Rathnam Road, Colombo 02, Sri Lanka", "codes": ["B770"], "total": 15, "leis": ["875500L5CAVCALJMN721", "254900CGEWK3KHKL2653", "25490091JEH4A9XJJW68", "254900NDASIW2A7V3J06", "213800FJCP83HH8L7Z79"]}
+{"name": "BSH Ventures (Private) Limited, No. 84, Campbell Place, Colombo-10, Sri Lanka", "codes": ["B769"], "total": 17, "leis": ["875500L5CAVCALJMN721", "254900CGEWK3KHKL2653", "25490091JEH4A9XJJW68", "254900NDASIW2A7V3J06", "213800FJCP83HH8L7Z79"]}
+{"name": "Look Design System S.A.", "codes": ["C206"], "total": 0, "leis": []}
+{"name": "Euro Cycles SA, Zone Industrielle Kelaa Kebira, 4060, Sousse, Tunisia", "codes": ["B771"], "total": 15, "leis": ["984500J9A892EECA0C68", "529900GAVOTUTJ0K1Z51", "254900X4SZEDASGYRE33", "894500LXEPEE56S5ME40", "549300WIKU0J1XYIUU93"]}
+{"name": "The goods are used in the assembly of cycles fitted with an auxiliary motor. An authorised use authorisation is required.", "codes": ["8835"], "total": 0, "leis": []}
+{"name": "Frog Bikes Limited", "codes": ["8A22"], "total": 1, "leis": ["213800CRL69565YGQ980"]}
+{"name": "Winlong Garments Ltd", "codes": ["8A24"], "total": 0, "leis": []}
+{"name": "MiRider Limited, Disklok House, Preston Road, Charnock Richard, Chorley, England, PR7 5HH", "codes": ["8A12"], "total": 293, "leis": ["549300NGSJ2CHKC9S850", "213800YXABHU3TF3VC02", "894500IIDTNZ324LTF54", "213800AH586TD87JPI75", "213800D3FY36PZJZNY45"]}
+{"name": "Planet X Ltd, Unit 38-41, Aldwarke Wharfe Business Park, Waddington Way, Rotherham, South Yorkshire GB-S65 3SH, UK", "codes": ["A995"], "total": 9660, "leis": ["2138009QMMAUUQ245545", "529900AEWEK2Q2G2Q953", "254900WMAFM4C4QH3X31", "213800XF5I5HAFNLAG31", "549300FDMQWK2B7AZE97"]}
+{"name": "Accell Nederland B.V., Industrieweg 4, NL - 8444AR Heerenveen", "codes": ["C004"], "total": 0, "leis": []}
+{"name": "Cycles France Loire, Avenue de l'industrie, FR - 42160 Saint-Cyprien", "codes": ["C005"], "total": 0, "leis": []}
+{"name": "CYCLES LAPIERRE, 6-10 Rue Edmond Voisenet, FR - 21000 Dijon Cedex", "codes": ["C006"], "total": 0, "leis": []}
+{"name": "Cycleurope Industries, 161 Rue Gabriel Péri, FR - 10100 Romilly- sur-Seine", "codes": ["C007"], "total": 1, "leis": ["8945000E5QZEVD9R4D37"]}
+{"name": "Engelbert Meyer GmbH, Hauptstraße 31, DE - 49692 Cappeln", "codes": ["C010"], "total": 0, "leis": []}
+{"name": "Derby Cycle Werke GmbH, Siemensstraße 1-3, DE - 49661 Cloppenburg", "codes": ["C009"], "total": 0, "leis": []}
+{"name": "Cycleurope Sverige AB, c/o Monark AB, SE - 432 82 Varberg", "codes": ["C008"], "total": 0, "leis": []}
+{"name": "Esmaltina- Auto ciclos S.A., Rua do salgueiro 47, PT - 3780-103 Sangalhos", "codes": ["C011"], "total": 1, "leis": ["5493003JD0BUWBTG7R06"]}
+{"name": "F.lli Masciaghi S.p.a., Via Gramsci 10, IT - 20900 Monza (MB)", "codes": ["C012"], "total": 0, "leis": []}
+{"name": "KTM Fahrrad GmbH, Harlochner straße 13, AT - 5230 Mattighofen", "codes": ["C013"], "total": 1, "leis": ["529900Z01QVW8VBJFK97"]}
+{"name": "Manufacture Française Du Cycle, 27 rue Marcel Brunelière, FR - 44270 Machecoul", "codes": ["C014"], "total": 1, "leis": ["969500CAX0URG8LBFU81"]}
+{"name": "Panther International GmbH, Alter Postweg 190, DE - 32584 Löhne", "codes": ["C017"], "total": 0, "leis": []}
+{"name": "Promiles, 4 Boulevard de Mons, FR - 59650 Villeneuve d'Ascq", "codes": ["C018"], "total": 0, "leis": []}
+{"name": "Montana SRL, Via Domenico Rossi 70, IT - 12060 Magliano Alpi (CN)", "codes": ["C016"], "total": 1, "leis": ["984500EG7CDK6C055914"]}
+{"name": "MBM S.r.l., Via Emilia Levante 1671/73/75, IT - 47521 Cesena (FC)", "codes": ["C015"], "total": 3, "leis": ["81560098C8BA3E214572", "8156002849C00B302542", "8156007D33FB41516510"]}
+{"name": "TNT Cycles S.L., C/Mosquerola 61-63, ES - 17180 Vilablareix (Girona)", "codes": ["C020"], "total": 0, "leis": []}
+{"name": "Cycles Sport North Ltd, 363 Leach Place, Walton Summit Center, GB-PR5 8AS Preston", "codes": ["C049"], "total": 0, "leis": []}
+{"name": "Prophete GmbH & Co. KG, Lindenstrasse 50, DE - 33378 Rheda-Wiedenbrück", "codes": ["C019"], "total": 1, "leis": ["529900351P3B523B2M44"]}
+{"name": "The Martlet Group Ltd, Units 7-8b Mid Sussex Business Park Folders Lane East, Ditchling, Hassocks, West Sussex, BN6 8SE.", "codes": ["C101"], "total": 17, "leis": ["254900XNKA0PPMPQ5A46", "213800FAMF8CAIHNZH28", "2138005GAD2C638Q3Q98", "549300Q2HX0M7C1FRH98", "254900U1B6GXROOMMY13"]}
+{"name": "The goods are used in the assembly of vehicles other than cycles, whether or not fitted with an auxiliary motor. An authorised use authorisation is required.", "codes": ["C549"], "total": 0, "leis": []}
+{"name": "Frog Bikes Manufacturing Ltd' ('FBML'), Unit A, Mamhilad Park Estate, Pontypool, Torfaen, NP4 0HZ, UK", "codes": ["C499"], "total": 9653, "leis": ["8945000SH91T8MYIZ230", "213800OAXJ4OYTBVSH10", "549300LNPM2KR0F0Y334", "894500LF954CKIC8ZU61", "54930021UMYK54O2LJ04"]}

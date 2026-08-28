@@ -1,0 +1,9 @@
+# Regenerable. `python3 pipeline/reharvest_tr.py` rebuilds it from cache/tr_ids.txt in about ten minutes.
+cache/commodities.jsonl
+cache/commodities_v1_buggy.jsonl
+cache/commodities_seen.txt
+# Regenerable. `python3 pipeline/build_graph.py` rebuilds it in seconds.
+graph/traderemedy.ttl
+__pycache__/
+*.pyc
+.DS_Store

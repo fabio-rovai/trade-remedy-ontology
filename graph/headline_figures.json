@@ -1,0 +1,36 @@
+{
+  "set_based": {
+    "commodities_with_remedies": 405,
+    "distinct_measures": 9385,
+    "exporter_codes": 990,
+    "residual_codes": 8,
+    "named_exporters": 982,
+    "names_with_markup": 65,
+    "legal_acts_present": 119,
+    "legal_acts_cited_by_measures": 49,
+    "locators_at_200_cap": 13,
+    "truncated_locators_returning_404": 13,
+    "measures_resting_on_a_dead_locator": 1477,
+    "locator_revoked": 3,
+    "citation_code_locator_disagreement": 1,
+    "citation_scheme_nonconformant": 87,
+    "names_not_resolving_to_one_entity": 955
+  },
+  "sparql": {
+    "commodities_with_remedies": 405,
+    "distinct_measures": 9385,
+    "exporter_codes": 990,
+    "residual_codes": 8,
+    "named_exporters": 982,
+    "names_with_markup": 65,
+    "legal_acts_present": 119,
+    "legal_acts_cited_by_measures": 49,
+    "locators_at_200_cap": 13,
+    "truncated_locators_returning_404": 13,
+    "measures_resting_on_a_dead_locator": 1477,
+    "locator_revoked": 3,
+    "citation_code_locator_disagreement": 1,
+    "citation_scheme_nonconformant": 87,
+    "names_not_resolving_to_one_entity": 955
+  }
+}

@@ -1,0 +1,136 @@
+@prefix trade: <https://gov.tesseract.academy/def/traderemedy#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+
+<https://gov.tesseract.academy/def/traderemedy> a owl:Ontology ;
+    dct:title "Trade Remedy Ontology" ;
+    dct:description "An OWL 2 vocabulary for trade remedy measures, the exporters they name, and the legal instruments they cite. Identity and legal citation are modelled as dated assertions by a named source rather than as properties of a thing, so that disagreement between registers is representable rather than lost." ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    owl:versionInfo "0.1.0" .
+
+##  Core entities  ##
+
+trade:TradeRemedyMeasure a owl:Class ;
+    rdfs:label "Trade remedy measure" ;
+    rdfs:comment "An operative measure applying an anti-dumping, countervailing or safeguard duty to a commodity, an origin, and optionally a named exporter." .
+
+trade:RemedyCase a owl:Class ;
+    rdfs:label "Trade remedy case" ;
+    rdfs:comment "An investigation or review conducted by an investigating authority." .
+
+trade:Exporter a owl:Class ;
+    rdfs:label "Exporter" ;
+    rdfs:comment "A legal entity named in a measure as attracting a specific duty rate." .
+
+trade:Commodity a owl:Class ;
+    rdfs:label "Commodity" ;
+    rdfs:comment "A goods nomenclature item to which a measure attaches." .
+
+trade:GeographicalArea a owl:Class ;
+    rdfs:label "Geographical area" ;
+    rdfs:comment "An origin or destination scope for a measure." .
+
+trade:LegalInstrument a owl:Class ;
+    rdfs:label "Legal instrument" ;
+    rdfs:comment "A statutory instrument, taxation notice or other act giving a measure legal force." .
+
+trade:MeasureType a owl:Class ;
+    rdfs:label "Measure type" ;
+    rdfs:comment "The class of remedy a measure applies, such as definitive anti-dumping duty or definitive countervailing duty, as declared by the publishing tariff authority." .
+
+##  Reified assertions. Nothing is a bare property of a thing.  ##
+
+trade:Assertion a owl:Class ;
+    rdfs:label "Assertion" ;
+    rdfs:comment "A dated claim made by a named source. Identity of an assertion includes its date, so that two distinct dated claims never collapse into one node." .
+
+trade:IdentifierAssertion a owl:Class ;
+    rdfs:subClassOf trade:Assertion ;
+    rdfs:label "Identifier assertion" ;
+    rdfs:comment "A source published a given identifier, under a given scheme, for a given subject, on a given date." .
+
+trade:LegalCitationAssertion a owl:Class ;
+    rdfs:subClassOf trade:Assertion ;
+    rdfs:label "Legal citation assertion" ;
+    rdfs:comment "A source cited a legal instrument for a measure, by code and by locator. The code and the locator are recorded separately because they can disagree." .
+
+trade:ResolutionObservation a owl:Class ;
+    rdfs:subClassOf trade:Assertion ;
+    rdfs:label "Resolution observation" ;
+    rdfs:comment "A locator was dereferenced on a given date and returned a given HTTP status, title and revocation state." .
+
+trade:IntegrityAssertion a owl:Class ;
+    rdfs:subClassOf trade:Assertion ;
+    rdfs:label "Integrity assertion" ;
+    rdfs:comment "A register asserted a status for a subject on a date. Silence is a position and is recorded as such." .
+
+##  Assertion properties  ##
+
+trade:assertedBy a owl:ObjectProperty ;
+    rdfs:label "asserted by" ; rdfs:domain trade:Assertion .
+trade:assertedOn a owl:DatatypeProperty ;
+    rdfs:label "asserted on" ; rdfs:domain trade:Assertion ; rdfs:range xsd:date .
+trade:assertionSubject a owl:ObjectProperty ;
+    rdfs:label "assertion subject" ; rdfs:domain trade:Assertion .
+
+trade:identifierValue a owl:DatatypeProperty ;
+    rdfs:label "identifier value" ; rdfs:domain trade:IdentifierAssertion ; rdfs:range xsd:string .
+trade:identifierScheme a owl:ObjectProperty ;
+    rdfs:label "identifier scheme" ; rdfs:domain trade:IdentifierAssertion ; rdfs:range skos:Concept .
+trade:schemeConformant a owl:DatatypeProperty ;
+    rdfs:label "scheme conformant" ; rdfs:domain trade:IdentifierAssertion ; rdfs:range xsd:boolean .
+trade:nonConformanceReason a owl:DatatypeProperty ;
+    rdfs:label "non conformance reason" ; rdfs:domain trade:IdentifierAssertion ; rdfs:range xsd:string .
+trade:resolutionCardinality a owl:DatatypeProperty ;
+    rdfs:label "resolution cardinality" ;
+    rdfs:comment "How many distinct entities the identifier resolves to. Zero means unresolvable, more than one means ambiguous." ;
+    rdfs:domain trade:IdentifierAssertion ; rdfs:range xsd:integer .
+
+trade:citationCode a owl:DatatypeProperty ;
+    rdfs:label "citation code" ; rdfs:domain trade:LegalCitationAssertion ; rdfs:range xsd:string .
+trade:citationLocator a owl:DatatypeProperty ;
+    rdfs:label "citation locator" ; rdfs:domain trade:LegalCitationAssertion ; rdfs:range xsd:anyURI .
+trade:citationScheme a owl:ObjectProperty ;
+    rdfs:label "citation scheme" ; rdfs:domain trade:LegalCitationAssertion ; rdfs:range skos:Concept .
+trade:codeLocatorAgreement a owl:DatatypeProperty ;
+    rdfs:label "code locator agreement" ;
+    rdfs:comment "True when the instrument named by the citation code is the instrument the locator dereferences to." ;
+    rdfs:domain trade:LegalCitationAssertion ; rdfs:range xsd:boolean .
+
+trade:httpStatus a owl:DatatypeProperty ;
+    rdfs:label "http status" ; rdfs:domain trade:ResolutionObservation ; rdfs:range xsd:integer .
+trade:resolvedTitle a owl:DatatypeProperty ;
+    rdfs:label "resolved title" ; rdfs:domain trade:ResolutionObservation ; rdfs:range xsd:string .
+trade:resolvedRevoked a owl:DatatypeProperty ;
+    rdfs:label "resolved revoked" ;
+    rdfs:comment "True when the dereferenced instrument is marked revoked at the point of observation." ;
+    rdfs:domain trade:ResolutionObservation ; rdfs:range xsd:boolean .
+
+##  Measure structure  ##
+
+trade:appliesToCommodity a owl:ObjectProperty ;
+    rdfs:label "applies to commodity" ; rdfs:domain trade:TradeRemedyMeasure ; rdfs:range trade:Commodity .
+trade:appliesToArea a owl:ObjectProperty ;
+    rdfs:label "applies to area" ; rdfs:domain trade:TradeRemedyMeasure ; rdfs:range trade:GeographicalArea .
+trade:namesExporter a owl:ObjectProperty ;
+    rdfs:label "names exporter" ; rdfs:domain trade:TradeRemedyMeasure ; rdfs:range trade:Exporter .
+trade:hasMeasureType a owl:ObjectProperty ;
+    rdfs:label "has measure type" ; rdfs:domain trade:TradeRemedyMeasure ; rdfs:range trade:MeasureType .
+trade:citesInstrument a owl:ObjectProperty ;
+    rdfs:label "cites instrument" ; rdfs:domain trade:TradeRemedyMeasure ; rdfs:range trade:LegalInstrument .
+trade:validFrom a owl:DatatypeProperty ;
+    rdfs:label "valid from" ; rdfs:domain trade:TradeRemedyMeasure ; rdfs:range xsd:date .
+trade:validTo a owl:DatatypeProperty ;
+    rdfs:label "valid to" ; rdfs:domain trade:TradeRemedyMeasure ; rdfs:range xsd:date .
+trade:exporterLabel a owl:DatatypeProperty ;
+    rdfs:label "exporter label" ;
+    rdfs:comment "The exporter name exactly as published, before any normalisation." ;
+    rdfs:domain trade:Exporter ; rdfs:range xsd:string .
+trade:isResidualRate a owl:DatatypeProperty ;
+    rdfs:label "is residual rate" ;
+    rdfs:comment "True for the all other exporters catch-all code, which denotes no specific entity." ;
+    rdfs:domain trade:Exporter ; rdfs:range xsd:boolean .

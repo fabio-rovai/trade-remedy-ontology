@@ -1,0 +1,81 @@
+@prefix scheme: <https://gov.tesseract.academy/def/traderemedy/scheme#> .
+@prefix trade:  <https://gov.tesseract.academy/def/traderemedy#> .
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+
+scheme:Registry a skos:ConceptScheme ;
+    skos:prefLabel "Trade remedy identifier and citation scheme registry" ;
+    rdfs:comment "Each scheme declares its own conformance rules as data. The pipeline validates every value against its declared scheme rather than against hard coded logic, so adding a jurisdiction means adding a concept, not editing code." .
+
+##  Rule vocabulary used by the schemes below  ##
+
+scheme:pattern a owl:DatatypeProperty ; rdfs:domain skos:Concept ; rdfs:label "pattern" ; rdfs:range xsd:string .
+scheme:minLength a owl:DatatypeProperty ; rdfs:domain skos:Concept ; rdfs:label "min length" ; rdfs:range xsd:integer .
+scheme:maxLength a owl:DatatypeProperty ; rdfs:domain skos:Concept ; rdfs:label "max length" ; rdfs:range xsd:integer .
+scheme:checkDigitAlgorithm a owl:DatatypeProperty ; rdfs:domain skos:Concept ; rdfs:label "check digit algorithm" ; rdfs:range xsd:string .
+scheme:scopeLevel a owl:DatatypeProperty ; rdfs:domain skos:Concept ; rdfs:label "scope level" ; rdfs:range xsd:string .
+scheme:custodian a owl:DatatypeProperty ; rdfs:domain skos:Concept ; rdfs:label "custodian" ; rdfs:range xsd:string .
+scheme:denotesEntity a owl:DatatypeProperty ;
+    rdfs:domain skos:Concept ;
+    rdfs:label "denotes entity" ;
+    rdfs:comment "True when a value under this scheme is intended to denote a single real world entity." ;
+    rdfs:range xsd:boolean .
+
+##  Identifier schemes  ##
+
+scheme:LEI a skos:Concept ;
+    skos:inScheme scheme:Registry ;
+    skos:prefLabel "Legal Entity Identifier" ;
+    skos:notation "LEI" ;
+    scheme:custodian "GLEIF" ;
+    scheme:pattern "^[A-Z0-9]{18}[0-9]{2}$" ;
+    scheme:minLength 20 ; scheme:maxLength 20 ;
+    scheme:checkDigitAlgorithm "ISO 7064 MOD 97-10" ;
+    scheme:scopeLevel "entity" ;
+    scheme:denotesEntity true ;
+    rdfs:seeAlso <https://www.gleif.org/> .
+
+scheme:UKAdditionalCode a skos:Concept ;
+    skos:inScheme scheme:Registry ;
+    skos:prefLabel "UK tariff additional code" ;
+    skos:notation "ADDCODE" ;
+    scheme:custodian "His Majesty's Revenue and Customs" ;
+    scheme:pattern "^[A-Z0-9]{4}$" ;
+    scheme:minLength 4 ; scheme:maxLength 4 ;
+    scheme:scopeLevel "measure" ;
+    scheme:denotesEntity false ;
+    rdfs:comment "Four alphanumeric characters. Observed families include C-prefixed codes for named exporters, 8-prefixed codes, and reserved codes such as VATZ. The code sometimes denotes an entity and sometimes denotes a product scope rule or an exclusion, so denotesEntity is declared false at scheme level and asserted per value instead." .
+
+scheme:UKCommodityCode a skos:Concept ;
+    skos:inScheme scheme:Registry ;
+    skos:prefLabel "UK commodity code" ;
+    skos:notation "COMM" ;
+    scheme:custodian "His Majesty's Revenue and Customs" ;
+    scheme:pattern "^[0-9]{10}$" ;
+    scheme:minLength 10 ; scheme:maxLength 10 ;
+    scheme:scopeLevel "goods" ;
+    scheme:denotesEntity false .
+
+##  Legal citation schemes  ##
+
+scheme:UKStatutoryInstrument a skos:Concept ;
+    skos:inScheme scheme:Registry ;
+    skos:prefLabel "UK statutory instrument citation" ;
+    skos:notation "UKSI" ;
+    scheme:custodian "The National Archives" ;
+    scheme:pattern "^S\\.I\\. [0-9]{4}/[0-9]+$" ;
+    scheme:scopeLevel "instrument" ;
+    scheme:denotesEntity true ;
+    rdfs:comment "The canonical citation form is S.I. YYYY/NNNN. Variants observed in the operative tariff include 'YYYY No. NNN', 'YYYY No.NNN' and 'Statutory Instruments YYYY No. NNN'." .
+
+scheme:UKTaxationNotice a skos:Concept ;
+    skos:inScheme scheme:Registry ;
+    skos:prefLabel "UK taxation notice citation" ;
+    skos:notation "TAXNOTICE" ;
+    scheme:custodian "His Majesty's Revenue and Customs" ;
+    scheme:pattern "^Taxation Notice: [0-9]{4}/[0-9]{3}$" ;
+    scheme:scopeLevel "instrument" ;
+    scheme:denotesEntity true ;
+    rdfs:comment "Notice numbers are zero padded to three digits in the canonical form. Both padded and unpadded variants occur in the operative tariff." .
