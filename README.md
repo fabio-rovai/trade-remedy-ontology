@@ -161,6 +161,22 @@ Tariff, the TRA public file and legislation.gov.uk is Crown copyright under the 
 Government Licence v3.0; GLEIF data is CC0; WTO notification tables are published open on
 wto.org.
 
+## What we would build next
+
+The same census supports two things nobody currently publishes, and both are cheap from
+here. If either would be useful to you, email us and we will build it.
+
+**A measure expiry tracker.** Which UK measures expire when, by exporter, refreshed from
+the live tariff, so importers, advisers and the investigating authority see the review
+horizon before it arrives.
+
+**A full cross-jurisdiction divergence map.** This repository already checks the EU
+parent regulations the UK book still cites (both are no longer in force in the EU), and
+carries the Canadian register (189 measures, 4,681 codes) and US Federal Register counts.
+The full map would line up every transitioned UK measure against its EU counterpart,
+rate by rate and scope by scope, and show exactly where the two books have drifted since
+transition.
+
 ## Contact
 
 Built by [The Tesseract Academy](https://gov.tesseract.academy/).
